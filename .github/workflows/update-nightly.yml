@@ -20,7 +20,7 @@ jobs:
 
       - name: Switch branch
         run: |
-          git checkout -b main/update
+          git checkout -b nightly-update
 
       - name: Update
         run: |
@@ -33,4 +33,4 @@ jobs:
         run: |
           git add -A
           git commit -m "upd: update mods nightly"
-          git push -u origin main/update -f
+          git push -u origin nightly-update -f
