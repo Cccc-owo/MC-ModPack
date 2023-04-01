@@ -1,0 +1,13 @@
+name = "Better Dropped Items"
+filename = "betterdroppeditems-1.2.4-1.16.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5b69c0f6452f19a6df41f082b762f0c59fb3f8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3108108
+project-id = 350250

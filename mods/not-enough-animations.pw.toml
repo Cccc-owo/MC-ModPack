@@ -1,0 +1,13 @@
+name = "Not Enough Animations"
+filename = "notenoughanimations-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cac24f363376be715b37b7b363048a32186b7f1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3296039
+project-id = 433760

@@ -1,13 +1,16 @@
-name = ""
+name = "Pack-C"
 author = "Cccc_"
-version = "2.0.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = ""
+hash = "938fac80a7678dc4a32df5dd2576be52b4c08ef1429e8820da1f223d54b2ac09"
 
 [versions]
-fabric = ""
-minecraft = ""
+fabric = "0.14.19"
+minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16", "1.16.1", "1.16.2", "1.16.3", "1.16.4"]

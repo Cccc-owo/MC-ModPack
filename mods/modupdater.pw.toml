@@ -1,0 +1,13 @@
+name = "ModUpdater"
+filename = "modupdater-1.1.11+1.16.2-rc2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9fea97bd885de6475a5826b5375d535c2ba0ce5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3135213
+project-id = 391583

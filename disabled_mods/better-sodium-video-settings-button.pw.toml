@@ -1,0 +1,13 @@
+name = "Better Sodium Video Settings Button"
+filename = "BetterSodiumVideoSettingsButton-1.0.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e13566b494b817e7daa25bfbbf6304dc7a75f368"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3245626
+project-id = 437443

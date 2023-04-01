@@ -1,0 +1,13 @@
+name = "Multi World Borders"
+filename = "worldborderfix-1.0-fabric-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M7MroYMU/versions/1.1/worldborderfix-1.0-fabric-1.16.5.jar"
+hash-format = "sha1"
+hash = "d62abe4277034487ee8edfbfae0a410405b47695"
+
+[update]
+[update.modrinth]
+mod-id = "M7MroYMU"
+version = "xsVPHDYG"

@@ -1,0 +1,13 @@
+name = "Better Recipe Books (+ Brewing Stands)"
+filename = "better-recipe-book-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03fc9d9296004fe69626625d984e2ea66fcd1401"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3327936
+project-id = 486485

@@ -1,0 +1,13 @@
+name = "Music Duration Reducer"
+filename = "music-duration-reducer-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2dcf183735ad6a9b27cc77ff4548fbe5f3702e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3211257
+project-id = 400131

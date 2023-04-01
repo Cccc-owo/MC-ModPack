@@ -1,0 +1,13 @@
+name = "Smooth Scrolling Everywhere (Fabric)"
+filename = "SmoothScrollingEverywhere-3.0.3-unstable.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dce796eedf94fa560d630d7955a0b2ad67ece119"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2963760
+project-id = 325861
