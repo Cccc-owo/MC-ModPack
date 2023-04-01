@@ -1,0 +1,13 @@
+name = "Visible Toggle Sprint"
+filename = "visible-toggle-sprint-1.4.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kwcjLDqx/versions/dIy3zCOG/visible-toggle-sprint-1.4.2.jar"
+hash-format = "sha1"
+hash = "286f02604e78524c6c98960a0011db4388bf52a2"
+
+[update]
+[update.modrinth]
+mod-id = "kwcjLDqx"
+version = "dIy3zCOG"

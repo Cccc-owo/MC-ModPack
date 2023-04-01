@@ -1,0 +1,13 @@
+name = "I'm Here Get Moving"
+filename = "ihgm-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GSw2U2lp/versions/1.1/ihgm-1.1.jar"
+hash-format = "sha1"
+hash = "134c909f2ae7d8f0d617021f926b79a4ce81524a"
+
+[update]
+[update.modrinth]
+mod-id = "GSw2U2lp"
+version = "RIHHc1SU"

@@ -1,0 +1,13 @@
+name = "True Sight"
+filename = "truesight-1.0.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VR18n4p5/versions/WwY1WQMG/truesight-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "335c29fe022e222a28f1986a271ab5d72e250549"
+
+[update]
+[update.modrinth]
+mod-id = "VR18n4p5"
+version = "WwY1WQMG"

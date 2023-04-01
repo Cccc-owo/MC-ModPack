@@ -1,0 +1,13 @@
+name = "JMX"
+filename = "jmx-fabric-mc119-1.22.252.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OHg71hvQ/versions/fabric-mc119-1.22.252/jmx-fabric-mc119-1.22.252.jar"
+hash-format = "sha1"
+hash = "2b98b5cc74ba41e4c54c219474f1452de12b37d1"
+
+[update]
+[update.modrinth]
+mod-id = "OHg71hvQ"
+version = "VyXd9Kzj"

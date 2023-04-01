@@ -1,0 +1,13 @@
+name = "Moon Phase Info+"
+filename = "moonphaseinfoplus-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/al9wd5AJ/versions/6QGoePwD/moonphaseinfoplus-1.1.jar"
+hash-format = "sha1"
+hash = "153003d1f515a7917e20a279b14c5fa8888ce9dc"
+
+[update]
+[update.modrinth]
+mod-id = "al9wd5AJ"
+version = "6QGoePwD"
