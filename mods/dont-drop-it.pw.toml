@@ -1,0 +1,13 @@
+name = "Don't Drop It!"
+filename = "dontdropit-2.4.0+1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HcVOCzMh/versions/v2.4.0+1.18/dontdropit-2.4.0%2B1.18.jar"
+hash-format = "sha1"
+hash = "9dbfd3db0d14fea596396629769354e4d8ffa150"
+
+[update]
+[update.modrinth]
+mod-id = "HcVOCzMh"
+version = "BPCPnIl9"

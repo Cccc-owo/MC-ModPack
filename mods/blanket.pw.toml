@@ -1,0 +1,13 @@
+name = "Blanket"
+filename = "Blanket Client tweaks-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gxpkKtVH/versions/1.0.3/Blanket%20Client%20tweaks-1.0.3.jar"
+hash-format = "sha1"
+hash = "ede1033c152de722cca9ef61788044233bb7ea84"
+
+[update]
+[update.modrinth]
+mod-id = "gxpkKtVH"
+version = "xC553oab"

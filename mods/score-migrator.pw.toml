@@ -1,0 +1,13 @@
+name = "Score Migrator"
+filename = "score-migrator-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zJSoD7J2/versions/1.18.x-1.0.1/score-migrator-1.0.1.jar"
+hash-format = "sha1"
+hash = "e76886cec6176d300faaef085ccff11407b80a37"
+
+[update]
+[update.modrinth]
+mod-id = "zJSoD7J2"
+version = "BlJGeSw8"
