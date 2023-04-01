@@ -1,4 +1,4 @@
-name = ""
+name = "Simple&Useful-Pack"
 author = "Cccc_"
 version = "2.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = ""
+hash = "ea06e058467ca1e1c0808e6bd09d51077ab62f59a8fd6afee6ba8cd08cdd347b"
 
 [versions]
-fabric = ""
-minecraft = ""
+fabric = "0.14.17"
+minecraft = "1.19.4"
