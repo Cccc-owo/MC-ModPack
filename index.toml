@@ -26,6 +26,11 @@ hash = "cbb62ba5e9d5c40ed5aa789de24900ab50da85d0d4b73d2a7f7745f9feb86966"
 metafile = true
 
 [[files]]
+file = "mods/ash-api.pw.toml"
+hash = "dc3a54754f629f9f977c5e69e29f0859ce1bd67c8b92c1ff2bd571f7508ef665"
+metafile = true
+
+[[files]]
 file = "mods/attribute-tooltip-fix.pw.toml"
 hash = "384a81c3423058459cd288b876382316de92c216945727a6b726f0e774f8a929"
 metafile = true
@@ -256,6 +261,11 @@ hash = "e8e4c4c6d7664cb92ee0cd9648d97103cd28e8d2d3f76dfe5ca71c0481019ba2"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "26834b11c830470d89632e3a8d1c0aea786aa4f1e03aabf99cfb4161f3c097bb"
+metafile = true
+
+[[files]]
 file = "mods/entity-view-distance.pw.toml"
 hash = "1b63c77bc60ab5a82fdc4457859ce04aaca734bfefbdfa2f8491c6aaf9ca7319"
 metafile = true
@@ -466,6 +476,11 @@ hash = "7fff792dae8e7d32a4e585a1c72a5bd4bc173a2cb9fe47cfb12f7ac88a3d3433"
 metafile = true
 
 [[files]]
+file = "mods/mbp.pw.toml"
+hash = "bafdafbc1baf19fcf475cec435f18dbce32ef0ad035771ed1cd850b77a1e3d5e"
+metafile = true
+
+[[files]]
 file = "mods/mclangsplit.pw.toml"
 hash = "517ad11c063fa6dbc035761683748799ffce44739ca24a85cd566d83e3ecb98a"
 metafile = true
@@ -658,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipsplus.pw.toml"
 hash = "f5dd301a453a7ffc8ca74713460c8ca235e8b1a9d8f4be90e1639eeea0772fc0"
+metafile = true
+
+[[files]]
+file = "mods/transparent.pw.toml"
+hash = "a44c3374e8f49ec2eabec973b85ec4b0adeb074d07735bc94b08bf873ac69f04"
 metafile = true
 
 [[files]]

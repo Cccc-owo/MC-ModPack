@@ -1,0 +1,13 @@
+name = "More Block Predicates"
+filename = "mbp-1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6Hwo44S4/versions/Gr3CrOYP/mbp-1.5.jar"
+hash-format = "sha1"
+hash = "188314ad5e6a974d7acea462dbf4bc9eb8ce6dfc"
+
+[update]
+[update.modrinth]
+mod-id = "6Hwo44S4"
+version = "Gr3CrOYP"
