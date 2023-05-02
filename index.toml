@@ -71,6 +71,11 @@ hash = "067ce28d816f9ecf8796dea0cb3ab4734683cd7ee0e80fa524af217c4c1ce381"
 metafile = true
 
 [[files]]
+file = "mods/betterhurtcam.pw.toml"
+hash = "2f0680af04cf8000fd8c4d60fcca3c6f42a993ff878bb6381868357595a37cb7"
+metafile = true
+
+[[files]]
 file = "mods/blanket.pw.toml"
 hash = "9906b376e48ef932d7a06383f7f8ef10b0bcba3cf08fb7ad18f480f7ef1ae3ed"
 metafile = true
@@ -406,8 +411,18 @@ hash = "c880ebfe6d340e4da7fe935f1a3cdcff84d3db7f4efe8fb3d12839b6d08c7aed"
 metafile = true
 
 [[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
+metafile = true
+
+[[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "a074a90572d74118204b29e8a31059670fb2e2f75c8732ddf7325fca6e594135"
+metafile = true
+
+[[files]]
+file = "mods/jmx.pw.toml"
+hash = "3bb10fe5507edcca55acfb8210232c03672ec239c09393115112356252b6e7d8"
 metafile = true
 
 [[files]]
@@ -551,6 +566,11 @@ hash = "887ea18d6af85c8a7d7ba04fb0be7a0fb2b3d664bbdbe0d83c2ff60fb62c9548"
 metafile = true
 
 [[files]]
+file = "mods/multiconnect.pw.toml"
+hash = "07b6118170c84510601705a4a34e2b0c3352ebfef5aca06b1a4ab6183eed3afc"
+metafile = true
+
+[[files]]
 file = "mods/music-duration-reducer.pw.toml"
 hash = "85e9a9b52b2d3673f56a288e3dcf3e48d467573cfe240c467e7fcf683a8ecbee"
 metafile = true
@@ -678,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/telepistons.pw.toml"
 hash = "42198f01a7fb4aeac479ef3f8bda3cf12efa92609c906b63357777f0a04cd4b9"
+metafile = true
+
+[[files]]
+file = "mods/thorium.pw.toml"
+hash = "61e2a941621007c901c96fe1474b3c07f208712fa6130151771d5235b6cc8adb"
 metafile = true
 
 [[files]]

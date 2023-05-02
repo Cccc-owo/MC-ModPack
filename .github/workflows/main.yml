@@ -22,7 +22,7 @@ jobs:
 
       - name: Export Modpack File
         run: |
-          ./main.bat
+          ./untested.bat
 
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v3

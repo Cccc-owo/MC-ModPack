@@ -5,17 +5,17 @@
 ::auditory
 ::autohud
 ::betterhurtcam
-::Blanket+Client+tweaks
+::blanket
 ::can-i-mine-this-block
 ::canimation
 ::carpet-fixes
-::charmonium-fabric
-::chunksfadein
+::charmonium
+::chunks-fade-in
 ::cloth-api
 ::colormatic
-::customselectionbox
-::dontdropit
-::enhancedblockentities
+::custom-selection-box
+::dont-drop-it
+::ebe
 ::improved-fire-overlay
 ::item-model-fix
 ::jmx
@@ -25,52 +25,55 @@
 ::mclangsplit
 ::memoryleakfix
 ::multiconnect
-::RoughlyEnoughItems
+::roughly-enough-items
 ::Screencapper
 ::slight-gui-modifications
-::SmoothScrollingEverywhere
+::smooth-scrolling-everywhere
 ::talkbubbles
 ::thorium
 ::tooltipsplus
-::vehicelfix
+::vehiclefix
 ::WildFireFly
 ::wmitaf
 ::=====END=====
 
 ::Delete the incompatible ( maybe ) mods
-DEL /F /S /Q auditory*.mrpack
-DEL /F /S /Q autohud*.mrpack
-DEL /F /S /Q betterhurtcam*.mrpack
-DEL /F /S /Q Blanket+Client+tweaks*.mrpack
-DEL /F /S /Q can-i-mine-this-block*.mrpack
-DEL /F /S /Q canimation*.mrpack
-DEL /F /S /Q carpet-fixes*.mrpack
-DEL /F /S /Q charmonium-fabric*.mrpack
-DEL /F /S /Q chunksfadein*.mrpack
-DEL /F /S /Q cloth-api*.mrpack
-DEL /F /S /Q colormatic*.mrpack
-DEL /F /S /Q customselectionbox*.mrpack
-DEL /F /S /Q dontdropit*.mrpack
-DEL /F /S /Q enhancedblockentities*.mrpack
-DEL /F /S /Q improved-fire-overlay*.mrpack
-DEL /F /S /Q item-model-fix*.mrpack
-DEL /F /S /Q jmx*.mrpack
-DEL /F /S /Q lambdabettergrass*.mrpack
-DEL /F /S /Q map-in-slot*.mrpack
-DEL /F /S /Q mbp*.mrpack
-DEL /F /S /Q mclangsplit*.mrpack
-DEL /F /S /Q memoryleakfix*.mrpack
-DEL /F /S /Q multiconnect*.mrpack
-DEL /F /S /Q RoughlyEnoughItems*.mrpack
-DEL /F /S /Q Screencapper*.mrpack
-DEL /F /S /Q slight-gui-modifications*.mrpack
-DEL /F /S /Q SmoothScrollingEverywhere*.mrpack
-DEL /F /S /Q talkbubbles*.mrpack
-DEL /F /S /Q thorium*.mrpack
-DEL /F /S /Q tooltipsplus*.mrpack
-DEL /F /S /Q vehicelfix*.mrpack
-DEL /F /S /Q WildFireFly*.mrpack
-DEL /F /S /Q wmitaf*.mrpack
+DEL /F /S /Q auditory*.pw.toml
+DEL /F /S /Q autohud*.pw.toml
+DEL /F /S /Q betterhurtcam*.pw.toml
+DEL /F /S /Q Blanket+Client+tweaks*.pw.toml
+DEL /F /S /Q can-i-mine-this-block*.pw.toml
+DEL /F /S /Q canimation*.pw.toml
+DEL /F /S /Q carpet-fixes*.pw.toml
+DEL /F /S /Q charmonium-fabric*.pw.toml
+DEL /F /S /Q chunksfadein*.pw.toml
+DEL /F /S /Q cloth-api*.pw.toml
+DEL /F /S /Q colormatic*.pw.toml
+DEL /F /S /Q customselectionbox*.pw.toml
+DEL /F /S /Q dontdropit*.pw.toml
+DEL /F /S /Q enhancedblockentities*.pw.toml
+DEL /F /S /Q improved-fire-overlay*.pw.toml
+DEL /F /S /Q item-model-fix*.pw.toml
+DEL /F /S /Q jmx*.pw.toml
+DEL /F /S /Q lambdabettergrass*.pw.toml
+DEL /F /S /Q map-in-slot*.pw.toml
+DEL /F /S /Q mbp*.pw.toml
+DEL /F /S /Q mclangsplit*.pw.toml
+DEL /F /S /Q memoryleakfix*.pw.toml
+DEL /F /S /Q multiconnect*.pw.toml
+DEL /F /S /Q RoughlyEnoughItems*.pw.toml
+DEL /F /S /Q Screencapper*.pw.toml
+DEL /F /S /Q slight-gui-modifications*.pw.toml
+DEL /F /S /Q SmoothScrollingEverywhere*.pw.toml
+DEL /F /S /Q talkbubbles*.pw.toml
+DEL /F /S /Q thorium*.pw.toml
+DEL /F /S /Q tooltipsplus*.pw.toml
+DEL /F /S /Q vehicelfix*.pw.toml
+DEL /F /S /Q WildFireFly*.pw.toml
+DEL /F /S /Q wmitaf*.pw.toml
 
 ::Refresh packwiz index
-./packwiz refresh
+packwiz refresh
+
+::Generate tested pack
+packwiz.exe modrinth export
