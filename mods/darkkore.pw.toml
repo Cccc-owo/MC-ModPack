@@ -1,13 +1,13 @@
 name = "DarkKore"
-filename = "DarkKore-0.3.4-1.19.3.jar"
+filename = "DarkKore-0.3.5-1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mB8GNQWO/versions/ve9W9i39/DarkKore-0.3.4-1.19.3.jar"
+url = "https://cdn.modrinth.com/data/mB8GNQWO/versions/ULGgeOp3/DarkKore-0.3.5-1.19.4.jar"
 hash-format = "sha1"
-hash = "ab875014a0e0d1bb09c0b8c7942f82782129702f"
+hash = "dac64cfeeacbfc85ed75f9300b56e6f62b563db4"
 
 [update]
 [update.modrinth]
 mod-id = "mB8GNQWO"
-version = "ve9W9i39"
+version = "ULGgeOp3"
