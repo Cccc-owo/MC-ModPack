@@ -22,7 +22,7 @@ jobs:
 
       - name: Export Modpack File
         run: |
-          ./packwiz.exe modrinth export
+          ./main.bat
 
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v3
