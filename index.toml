@@ -136,6 +136,11 @@ hash = "633efdb3a30ba519eb7712b73f191b6f831fc27d4ca82ada291f30d26553e868"
 metafile = true
 
 [[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "b0696a462b0bd11b3a8414e0841924d53c1da795b53adfaf8335d041bb9fe5d2"
+metafile = true
+
+[[files]]
 file = "mods/chime.pw.toml"
 hash = "573c77af3df0ddda601b8e048bfa5c808f31577f7954261b0c7386a3bb8b2abb"
 metafile = true
@@ -328,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "678ecc9241860f54aa51acc300dcec18d96322bb593a2db6574e7de952d6038f"
+metafile = true
+
+[[files]]
+file = "mods/gamma-shifter.pw.toml"
+hash = "bc5ec8326c741a4be0fb986d7334fcfabb4105482fef6e929dc1be9b198da125"
 metafile = true
 
 [[files]]
