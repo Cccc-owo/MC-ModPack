@@ -216,11 +216,6 @@ hash = "eb0bedb917f120605fa9a0d828ba2eb55b2ffa1ab0a47bcbc2f4b1096a27a57c"
 metafile = true
 
 [[files]]
-file = "mods/dcch.pw.toml"
-hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "54968e302997818e3161506db9f83add8a29b415d216985c3a3bcd301bb9b7a2"
 metafile = true
