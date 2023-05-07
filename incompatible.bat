@@ -16,6 +16,7 @@
 ::custom-selection-box
 ::dont-drop-it
 ::ebe
+::fastanim
 ::improved-fire-overlay
 ::item-model-fix
 ::jmx
@@ -52,6 +53,7 @@ DEL /F /S /Q colormatic*.pw.toml
 DEL /F /S /Q custom-selection-box*.pw.toml
 DEL /F /S /Q dont-drop-it*.pw.toml
 DEL /F /S /Q ebe*.pw.toml
+DEL /F /S /Q fastanim*.pw.toml
 DEL /F /S /Q improved-fire-overlay*.pw.toml
 DEL /F /S /Q item-model-fix*.pw.toml
 DEL /F /S /Q jmx*.pw.toml
