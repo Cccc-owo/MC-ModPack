@@ -1,4 +1,4 @@
-name = "Simple&Useful-Pack"
+name = "Yet A Minecraft Mod Pack"
 author = "Cccc_"
 version = "2.0.0"
 pack-format = "packwiz:1.1.0"
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "967c167f007fae25e63e89fe18088f279f1b8f9c0e21fad96148c38d861bb4b3"
 
 [versions]
-fabric = "0.14.19"
+fabric = "0.14.21"
 minecraft = "1.19.4"
