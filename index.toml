@@ -191,11 +191,6 @@ hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
 metafile = true
 
 [[files]]
-file = "mods/crowmap.pw.toml"
-hash = "30f1ee40932a5918f97f85ac3c9bd48f2545e3baf0f40fde6a631606aae59b52"
-metafile = true
-
-[[files]]
 file = "mods/cullclouds.pw.toml"
 hash = "2bbb1ff7bbecbdb7b484df35b823dae2abc4798a5c203a651d2ae0b0a707d119"
 metafile = true
