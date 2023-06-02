@@ -66,16 +66,6 @@ hash = "296b4e7a1b7eee84117cc64362f27a981a820e9a39c9d8acae9937c0fca99da6"
 metafile = true
 
 [[files]]
-file = "mods/better-safe-bed.pw.toml"
-hash = "067ce28d816f9ecf8796dea0cb3ab4734683cd7ee0e80fa524af217c4c1ce381"
-metafile = true
-
-[[files]]
-file = "mods/betterhurtcam.pw.toml"
-hash = "dda204d87a8d9ff8820b3d60a89fcbe4886c7379089a0175970cedb051b1b843"
-metafile = true
-
-[[files]]
 file = "mods/blanket.pw.toml"
 hash = "9906b376e48ef932d7a06383f7f8ef10b0bcba3cf08fb7ad18f480f7ef1ae3ed"
 metafile = true
@@ -101,11 +91,6 @@ hash = "a0689175531fcdf02e11c52d298dc98a2ded262708237b4052420afd252209ba"
 metafile = true
 
 [[files]]
-file = "mods/c3h6n6o6.pw.toml"
-hash = "7871c5229033f62cef2298ae9c846340d38751d67dfe48f8f065e3030a8f2d06"
-metafile = true
-
-[[files]]
 file = "mods/can-i-mine-this-block.pw.toml"
 hash = "c6a97d5bde2a81d14ea339794f78e3961c46a48586b8f01ebe3676fa8cb990a3"
 metafile = true
@@ -128,11 +113,6 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "9f787016e772d10343a5d1ffcc30019a722659e6e7c9f658407d354283b24286"
-metafile = true
-
-[[files]]
-file = "mods/charmonium.pw.toml"
-hash = "ccc10f99cb19427bbe111efeecce5c2934a02d4294b2fedc3ef1e7fdc60771d3"
 metafile = true
 
 [[files]]
@@ -163,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/client-commands.pw.toml"
 hash = "a0b67b5400f583e3db9e31ed35ac2dfd7633efcec23c51fa79d82f38333aa82c"
-metafile = true
-
-[[files]]
-file = "mods/cloth-api.pw.toml"
-hash = "a24a98749cf572397b9c0ed2a892814b7ce93bb743a73510a348f150ae8745a9"
 metafile = true
 
 [[files]]
@@ -361,11 +336,6 @@ hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
 metafile = true
 
 [[files]]
-file = "mods/iceberg-fabric.pw.toml"
-hash = "3544793aebd53cea1f5da6128b7269b39f3e71fc71146df883810d0937c4e76b"
-metafile = true
-
-[[files]]
 file = "mods/ihgm.pw.toml"
 hash = "03ed73d0d9116be104bf1b395d71aba501351cc022ac9d02a26699665453e054"
 metafile = true
@@ -418,11 +388,6 @@ metafile = true
 [[files]]
 file = "mods/know-my-name.pw.toml"
 hash = "34335c573d6f30eb8d58ce6ac11705ef932d12733f887854a0efa1a5c9d8f42f"
-metafile = true
-
-[[files]]
-file = "mods/koroworld-lib.pw.toml"
-hash = "f92264b9f9d8a0b6e656c2c8ddebe1a7e381041e3deedb199bbfdbc337dee05f"
 metafile = true
 
 [[files]]
@@ -561,11 +526,6 @@ hash = "07b6118170c84510601705a4a34e2b0c3352ebfef5aca06b1a4ab6183eed3afc"
 metafile = true
 
 [[files]]
-file = "mods/music-duration-reducer.pw.toml"
-hash = "85e9a9b52b2d3673f56a288e3dcf3e48d467573cfe240c467e7fcf683a8ecbee"
-metafile = true
-
-[[files]]
 file = "mods/nmuk.pw.toml"
 hash = "be21943f2259ad118ef9630e1d2a02ff67b38f60d64a6dc53d83aba137f5f069"
 metafile = true
@@ -613,11 +573,6 @@ metafile = true
 [[files]]
 file = "mods/roundaround-true-sight.pw.toml"
 hash = "b18450e50257bd985da7cf6bf7a3e4d6c72a393ee68466560892cd3326f7735a"
-metafile = true
-
-[[files]]
-file = "mods/score-migrator.pw.toml"
-hash = "475000f4d51e3336d9bf0c9934a5f91976bfd8008cffcf334f2b67b1fd7c2a32"
 metafile = true
 
 [[files]]
@@ -691,11 +646,6 @@ hash = "42198f01a7fb4aeac479ef3f8bda3cf12efa92609c906b63357777f0a04cd4b9"
 metafile = true
 
 [[files]]
-file = "mods/thorium.pw.toml"
-hash = "61e2a941621007c901c96fe1474b3c07f208712fa6130151771d5235b6cc8adb"
-metafile = true
-
-[[files]]
 file = "mods/tiefix.pw.toml"
 hash = "6daf90d1e21256f5efc72eba21faa2d20342f38556cae35886fc86233ab67f9b"
 metafile = true
@@ -718,16 +668,6 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "663441dd58e115280ce35d9ae94630550b26a4945f35bf6871f75af2becb5ac9"
-metafile = true
-
-[[files]]
-file = "mods/ui-input-undo-fabric.pw.toml"
-hash = "65290eea5327eec6048bf873fe88abb93ca427c7a7974c6461025ec13e5cea25"
-metafile = true
-
-[[files]]
-file = "mods/ukulib.pw.toml"
-hash = "0c5ec8fdc3ba8674173805024176b8ef5f60a2a2e47a9df9b68ee72b604f78ab"
 metafile = true
 
 [[files]]
@@ -798,11 +738,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "4cd3315cb89fc46961317eb115e966304584f323a233e17444dbb5cf33db44aa"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
