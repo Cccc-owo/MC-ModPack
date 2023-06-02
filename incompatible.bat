@@ -29,6 +29,7 @@ cd mods
 ::roughly-enough-items
 ::screencapper
 ::slight-gui-modifications
+::smooth-scrolling-everywhere-fabric
 ::sodium-extra #temp
 ::tooltipsplus
 ::vehiclefix
@@ -64,6 +65,7 @@ DEL /F /S /Q multiconnect.pw.toml
 DEL /F /S /Q roughly-enough-items.pw.toml
 DEL /F /S /Q Screencapper.pw.toml
 DEL /F /S /Q slight-gui-modifications.pw.toml
+DEL /F /S /Q smooth-scrolling-everywhere-fabric.pw.toml
 DEL /F /S /Q sodium-extra.pw.toml
 DEL /F /S /Q tooltipsplus.pw.toml
 DEL /F /S /Q vehiclefix.pw.toml

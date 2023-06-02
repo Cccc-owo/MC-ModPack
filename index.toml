@@ -301,11 +301,6 @@ hash = "9df3d74fb6915ec6d776656c1d3504c0909c06e11a6fbc40ed83982149ae20a6"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "678ecc9241860f54aa51acc300dcec18d96322bb593a2db6574e7de952d6038f"
-metafile = true
-
-[[files]]
 file = "mods/gamma-shifter.pw.toml"
 hash = "e24ad7d6437047092a3a44853ecd39da0a310127b61cb538cfb0cb662ca44507"
 metafile = true
