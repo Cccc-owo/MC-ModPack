@@ -1,13 +1,13 @@
 name = "MCLangSplit"
-filename = "mclangsplit-fabric-2.0.3.jar"
+filename = "mclangsplit-fabric-2.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XbnKzsfm/versions/WrLI4dkf/mclangsplit-fabric-2.0.3.jar"
+url = "https://cdn.modrinth.com/data/XbnKzsfm/versions/uU5CvVkl/mclangsplit-fabric-2.1.0.jar"
 hash-format = "sha1"
-hash = "119b8a53cf1ccd46e48ef626b791fbef9fd1fa94"
+hash = "fb947be17d140fe5194f8c0aeae3dfeebc151f53"
 
 [update]
 [update.modrinth]
 mod-id = "XbnKzsfm"
-version = "WrLI4dkf"
+version = "uU5CvVkl"

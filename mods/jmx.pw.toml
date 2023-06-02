@@ -1,13 +1,13 @@
 name = "JMX"
-filename = "jmx-fabric-mc119-3.0.272.jar"
+filename = "jmx-fabric-19.4.274.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OHg71hvQ/versions/6NPuB3so/jmx-fabric-mc119-3.0.272.jar"
+url = "https://cdn.modrinth.com/data/OHg71hvQ/versions/6VNj2JqI/jmx-fabric-19.4.274.jar"
 hash-format = "sha1"
-hash = "eae841e503c1b4419b318c37a9c185586db9cc02"
+hash = "178d33fac761668decd0827dcb14d3a137df470b"
 
 [update]
 [update.modrinth]
 mod-id = "OHg71hvQ"
-version = "6NPuB3so"
+version = "6VNj2JqI"
