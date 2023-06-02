@@ -8,14 +8,11 @@ cd mods
 ::attribute-tooltip-fix
 ::auditory
 ::beer
-::betterhurtcam
 ::blanket
 ::canimation
 ::carpet-fixes
-::charmonium
 ::chime
 ::chunks-fade-in
-::cloth-api
 ::colormatic
 ::cullclouds
 ::custom-selection-box
@@ -32,7 +29,6 @@ cd mods
 ::roughly-enough-items
 ::screencapper
 ::slight-gui-modifications
-::smooth-scrolling-everywhere
 ::sodium-extra #temp
 ::tooltipsplus
 ::vehiclefix
@@ -40,7 +36,6 @@ cd mods
 ::wmitaf
 ::worldtime
 ::xanders-sodium-options
-::yosbr
 ::=====END=====
 
 ::Delete the incompatible ( maybe ) mods
@@ -48,14 +43,11 @@ DEL /F /S /Q animatica.pw.toml
 DEL /F /S /Q attribute-tooltip-fix.pw.toml
 DEL /F /S /Q auditory.pw.toml
 DEL /F /S /Q beer.pw.toml
-DEL /F /S /Q betterhurtcam.pw.toml
 DEL /F /S /Q blanket.pw.toml
 DEL /F /S /Q canimation.pw.toml
 DEL /F /S /Q carpet-fixes.pw.toml
-DEL /F /S /Q charmonium.pw.toml
 DEL /F /S /Q chime.pw.toml
 DEL /F /S /Q chunks-fade-in.pw.toml
-DEL /F /S /Q cloth-api.pw.toml
 DEL /F /S /Q colormatic.pw.toml
 DEL /F /S /Q cullclouds.pw.toml
 DEL /F /S /Q custom-selection-box.pw.toml
@@ -72,7 +64,6 @@ DEL /F /S /Q multiconnect.pw.toml
 DEL /F /S /Q roughly-enough-items.pw.toml
 DEL /F /S /Q Screencapper.pw.toml
 DEL /F /S /Q slight-gui-modifications.pw.toml
-DEL /F /S /Q smooth-scrolling-everywhere.pw.toml
 DEL /F /S /Q sodium-extra.pw.toml
 DEL /F /S /Q tooltipsplus.pw.toml
 DEL /F /S /Q vehiclefix.pw.toml
@@ -80,7 +71,6 @@ DEL /F /S /Q wildfirefly.pw.toml
 DEL /F /S /Q wmitaf.pw.toml
 DEL /F /S /Q worldtime.pw.toml
 DEL /F /S /Q xanders-sodium-options.pw.toml
-DEL /F /S /Q yosbr.pw.toml
 
 ::Refresh packwiz index
 cd ..
