@@ -1,0 +1,13 @@
+name = "Staaaaaaaaaaaack"
+filename = "staaaaaaaaaaaack-fabric-1.19.4-0.5.1-21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/myL7fuqp/versions/KdzLs5BG/staaaaaaaaaaaack-fabric-1.19.4-0.5.1-21.jar"
+hash-format = "sha1"
+hash = "c04746a71abac2cc9caad250991bd1ab23af9220"
+
+[update]
+[update.modrinth]
+mod-id = "myL7fuqp"
+version = "KdzLs5BG"

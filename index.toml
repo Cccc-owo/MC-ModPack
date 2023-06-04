@@ -421,6 +421,11 @@ hash = "8c4e1d3f2fffb4e3f3ef498dfeb24d999bdc60d6c717309b79eb552f804c15d6"
 metafile = true
 
 [[files]]
+file = "mods/litemoretica.pw.toml"
+hash = "0f85154f543fd1ce5d01dbb8dac4395fbf8701d66aeaca140de10b9879faacea"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
@@ -488,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "2fa4cb8b325d16ad0df5d351f8d8f735f6b525c9b05871942a8a1eae3f3e2cdc"
 metafile = true
 
 [[files]]
@@ -613,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
+file = "mods/staaaaaaaaaaaack.pw.toml"
+hash = "ed1296b609f3c70dbe29549e5f9f5df96de8a2f59e89f00cfbfd114ae877bcc5"
 metafile = true
 
 [[files]]
