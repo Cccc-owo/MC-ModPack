@@ -711,6 +711,11 @@ hash = "a358d855d607dde44433097b6a054855143cb2f023f70c23020427b3548b9972"
 metafile = true
 
 [[files]]
+file = "mods/volume-fix.pw.toml"
+hash = "127b0440cdc03dc94d56e9f689d0e607a7704be235ba1a21e7fd2c80e49ff117"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "ecf0c6a4e1ea923de5149d8fbceb63c2030d9d89385c08289483695d012f5568"
 metafile = true
