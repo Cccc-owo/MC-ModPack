@@ -1,13 +1,13 @@
 name = "Gamma Shifter"
-filename = "gamma_shifter-1.0.0+mc1.19.4.jar"
+filename = "gamma_shifter-1.0.1+mc1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/y3YvmDru/versions/tH1iHcol/gamma_shifter-1.0.0%2Bmc1.19.4.jar"
+url = "https://cdn.modrinth.com/data/y3YvmDru/versions/jywOqyTF/gamma_shifter-1.0.1%2Bmc1.19.4.jar"
 hash-format = "sha1"
-hash = "1032c1b92087239aeafbcdc6b23e84e254b94f9e"
+hash = "78d952edee9dac89109aeba4448b6da6105a364d"
 
 [update]
 [update.modrinth]
 mod-id = "y3YvmDru"
-version = "tH1iHcol"
+version = "jywOqyTF"
