@@ -1,13 +1,13 @@
 name = "Improved Fire Overlay"
-filename = "improved-fire-overlay-1.19-v2.jar"
+filename = "improved-fire-overlay-1.19.4-v2.jar.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b8ec2cf01962aeb39c50c4ac96f19049ee6d4e84"
+hash = "341b531083db1dce02131ed048be6f2693e3c5d0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3836186
+file-id = 4621451
 project-id = 504744
