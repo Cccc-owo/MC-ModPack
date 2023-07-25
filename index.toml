@@ -676,6 +676,11 @@ hash = "274176603f2dfb500b3c8284dbcde5ac7674952087b506686d62806b54aa35fb"
 metafile = true
 
 [[files]]
+file = "mods/translucencyfix.pw.toml"
+hash = "d0096ea08421ccb8a529958fe289da70b58bfe20cc6c9e505e4a3519591d2f74"
+metafile = true
+
+[[files]]
 file = "mods/transparent.pw.toml"
 hash = "a421224cb8635063af55bd613ed952c46a7c34913effb189c968eaf89c15b7c1"
 metafile = true
