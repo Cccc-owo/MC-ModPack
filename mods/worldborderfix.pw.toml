@@ -1,13 +1,13 @@
 name = "Multi World Borders"
-filename = "multiworldborders-1.6.0-fabric-1.19.4.jar"
+filename = "multiworldborders-1.6.1-fabric-1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M7MroYMU/versions/H2sVhPC1/multiworldborders-1.6.0-fabric-1.19.4.jar"
+url = "https://cdn.modrinth.com/data/M7MroYMU/versions/aPDBDaBH/multiworldborders-1.6.1-fabric-1.20.jar"
 hash-format = "sha1"
-hash = "eb96574c87599f30a8fdf071ba9ccec5ce944ada"
+hash = "6f027712534d624a8626dda462dc6063cde63615"
 
 [update]
 [update.modrinth]
 mod-id = "M7MroYMU"
-version = "H2sVhPC1"
+version = "aPDBDaBH"

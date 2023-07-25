@@ -1,13 +1,13 @@
 name = "Litemoretica"
-filename = "litemoretica-mc1.19.4-1.2.1.jar"
+filename = "litemoretica-mc1.20.1-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OYR5DMCo/versions/aclBuCQn/litemoretica-mc1.19.4-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/OYR5DMCo/versions/cO6ujMWL/litemoretica-mc1.20.1-1.2.2.jar"
 hash-format = "sha1"
-hash = "add738771e5622ffab8821e4db27a7f85bdcea73"
+hash = "170780e51899687bafbac26ecab400d5d2fd0c1b"
 
 [update]
 [update.modrinth]
 mod-id = "OYR5DMCo"
-version = "aclBuCQn"
+version = "cO6ujMWL"

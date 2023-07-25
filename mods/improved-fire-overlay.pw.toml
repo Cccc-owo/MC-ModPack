@@ -1,13 +1,13 @@
 name = "Improved Fire Overlay"
-filename = "improved-fire-overlay-1.19.4-v2.jar.jar"
-side = "both"
+filename = "improved-fire-overlay-1.20.1-v3.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/LXDmuHJP/versions/TD41yMUN/improved-fire-overlay-1.20.1-v3.jar"
 hash-format = "sha1"
-hash = "341b531083db1dce02131ed048be6f2693e3c5d0"
-mode = "metadata:curseforge"
+hash = "b6cfab0dbbe95ccf95c81e8d0628644a9d8b310d"
 
 [update]
-[update.curseforge]
-file-id = 4621451
-project-id = 504744
+[update.modrinth]
+mod-id = "LXDmuHJP"
+version = "TD41yMUN"

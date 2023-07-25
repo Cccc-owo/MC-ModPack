@@ -1,13 +1,13 @@
 name = "cAn i MiNe thIS bLOCk?"
-filename = "can-i-mine-this-block-1.3.1.jar"
+filename = "can-i-mine-this-block-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fEwSlaoa/versions/lwouxBnD/can-i-mine-this-block-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/fEwSlaoa/versions/lZ1YTSiE/can-i-mine-this-block-1.4.0.jar"
 hash-format = "sha1"
-hash = "29b62ed0be6bf07066782ea37a40a376556b11c2"
+hash = "61a5201d1e7c277b55fe740159c354a824be3b2e"
 
 [update]
 [update.modrinth]
 mod-id = "fEwSlaoa"
-version = "lwouxBnD"
+version = "lZ1YTSiE"

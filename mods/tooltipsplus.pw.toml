@@ -1,13 +1,13 @@
 name = "Tooltips+"
-filename = "tooltipsplus-1.2.5+1.19.4.jar"
+filename = "tooltipsplus-1.2.5+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aYZWZvWI/versions/8QgTZuCG/tooltipsplus-1.2.5%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/aYZWZvWI/versions/6U8XuVC6/tooltipsplus-1.2.5%2B1.20.jar"
 hash-format = "sha1"
-hash = "57ba1b61b0901c4de40d96c6552b873484d85c92"
+hash = "77c61f51f3be08cc47e531f0f0d52bb64510baf8"
 
 [update]
 [update.modrinth]
 mod-id = "aYZWZvWI"
-version = "8QgTZuCG"
+version = "6U8XuVC6"

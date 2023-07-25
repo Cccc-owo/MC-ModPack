@@ -1,13 +1,13 @@
-name = "Yet A Minecraft Mod Pack"
+name = "C-Optimized"
 author = "Cccc_"
-version = "2.0.0"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bff714102099c623b7d35aa1eb3644d2a0a3d4675e52828872829a24ae1e4f3c"
+hash = "3a288a699e98a123c766119f84880142f77d43bfa101e1cc63e0781006bcdf51"
 
 [versions]
 fabric = "0.14.21"
-minecraft = "1.19.4"
+minecraft = "1.20.1"
