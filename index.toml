@@ -586,6 +586,11 @@ hash = "2e6766b873e94322452409a32b71c088a523a851b9258ffd140865f45f75cfe6"
 metafile = true
 
 [[files]]
+file = "mods/serverpingerfixer.pw.toml"
+hash = "e4fcc1fc82a41c6ab58a926cd61950c290479c8e1c8531bfebaa72eb3d899817"
+metafile = true
+
+[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "52ae9078a64fda753224a76de81beab50ce6b4c2ad677cafa5121200b5a315a4"
 metafile = true
@@ -658,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/tiefix.pw.toml"
 hash = "ee6fa9a8edf5b60616ac6856889c85238133694706243daf41b8ab5405fcc2c1"
+metafile = true
+
+[[files]]
+file = "mods/tiptapshow.pw.toml"
+hash = "d519328554374dc56dcee55191ccda3e54c8375bc9544cf8e4c6bdf3d7c078b2"
 metafile = true
 
 [[files]]
