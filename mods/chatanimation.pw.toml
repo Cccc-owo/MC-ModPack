@@ -1,0 +1,13 @@
+name = "ChatAnimation"
+filename = "chatanimation-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DnNYdJsx/versions/L6DH46oI/chatanimation-1.0.2.jar"
+hash-format = "sha1"
+hash = "5d630f02debeded2b1d401720f5b6180edb0b6ea"
+
+[update]
+[update.modrinth]
+mod-id = "DnNYdJsx"
+version = "L6DH46oI"

@@ -91,6 +91,11 @@ hash = "cd2e4fa0a3dda308c440d163b8339b2072cfb2409a0def1f49099a3114596ab6"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "4d80a0f12a88a8adc8291afa8c12665dae5cfff19dbff1bae55c9904074ecf5e"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "2dd8e54dbc79ba663e1026a67f7356cdb73547dc59bfe3e37966ea471de44398"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "c05fc927e48e00f16927152d3e31efe0b6984110c1e23383935bb9a34c22ac77"
 metafile = true
 
 [[files]]
@@ -433,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "718be7c02354eab29316ea0354871544030b0d39fa7ce448f6cfa9df4a1d2f54"
 metafile = true
 
 [[files]]
