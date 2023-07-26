@@ -211,6 +211,11 @@ hash = "964ba2b17c1faef33809b6f3ccfb4ee73b3431ddd0d2c391da45034676fece26"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "73f815e7ef5c0589d30b901856be86dd0e6ceee51b4d361fb5bdda43e9dafd09"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
