@@ -16,16 +16,6 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
-metafile = true
-
-[[files]]
-file = "mods/armorpoints.pw.toml"
-hash = "12f49bdba56096f6d3e00e8b85edef07323078222972b586ec6ec3ce02e37938"
-metafile = true
-
-[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "9f8df5cd59d9d9bcccbeff4acd3950c380ec20ca535cadb7e050fa1e33462ce7"
 metafile = true
@@ -443,11 +433,6 @@ metafile = true
 [[files]]
 file = "mods/rbip.pw.toml"
 hash = "c82b014f45b2fa7b3a2df60821f42669413b0af10cbaa84146151d4c58b6d4bd"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "201ab0485fc28e1b4a8fb04f620bfe94e19a3495131b939b67a701068de7f325"
 metafile = true
 
 [[files]]
