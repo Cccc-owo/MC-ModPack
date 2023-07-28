@@ -346,6 +346,11 @@ hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 metafile = true
 
 [[files]]
+file = "mods/map-in-slot.pw.toml"
+hash = "31a0c61ea9ba02f396a4270783c7c108ad111430ecefe046cf9c9aaafa2b6767"
+metafile = true
+
+[[files]]
 file = "mods/mcwifipnp.pw.toml"
 hash = "f93809ec922eaf58677f86c68267f3d6af185c7238fa4eb774f0ffa33b08b64c"
 metafile = true
