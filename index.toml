@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "33c7f61b3d555b4e44a0493b00cb48a04f7bfdb1666ddd335d0bf00f6941a4da"
+hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cd2e4fa0a3dda308c440d163b8339b2072cfb2409a0def1f49099a3114596ab6"
+hash = "8792111bc94d2db611046d7089cf13ca0227165ebaec517e34858c97cc97f6e5"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "2dd8e54dbc79ba663e1026a67f7356cdb73547dc59bfe3e37966ea471de44398"
+hash = "e856608bb1c26f49e9ebcab20b3ff0d8114d5d9fd961e78b7c26bf767ffe0c63"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "c05fc927e48e00f16927152d3e31efe0b6984110c1e23383935bb9a34c22ac77"
+hash = "cfa6a711108fa04d3afcc5eb7e52cec5cfc1585d42977c6446e8d63541bda275"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
+hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "73f815e7ef5c0589d30b901856be86dd0e6ceee51b4d361fb5bdda43e9dafd09"
+hash = "9faf6e61ab381b06396c44eee304654c0db353c437cec3d3c22e50ddd9912717"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a154087f80d2179cabd05cf7629c29c06c5a62538e70f7c58021dd1d4f9e3e3a"
+hash = "d33f01502da3fe555c3da1c15d2168fb96060e42427661aa0620c877a2554ae5"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "235a2ad50dc38b10c95721ec9998aa8da2dbdc46ec1ad11661160c259bf26d12"
+hash = "fc62c8ca609288aae3ab5368a40f29bf18f21df923158b8e5a008b45356a33a8"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "f93809ec922eaf58677f86c68267f3d6af185c7238fa4eb774f0ffa33b08b64c"
+hash = "8b8eb61c367cd0cd126657d2a78a9b333dbd0847b0296d0d9237d5ce80239c55"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b069be03cd4e76ff934e079cb3103101dba440ad9343b904967b06fc8a075e0f"
+hash = "95734d5989d83a245b39d43b068e29aec12369c1d707a4eeb81cb4043d7cee4f"
 metafile = true
 
 [[files]]
@@ -402,12 +402,12 @@ metafile = true
 
 [[files]]
 file = "mods/moremcmeta.pw.toml"
-hash = "e473b9b561d0d68186d40e530f9215ac23893bb62a14f7c5f5ee18fb1c799943"
+hash = "46a0a322619e87b895152debdb7736d7e1bf64958573e5eccbfe31a0ce8ea0fc"
 metafile = true
 
 [[files]]
 file = "mods/nmuk.pw.toml"
-hash = "daf68845e14891a82292ec7ed1c7069999022ce26ca8159c322a49cce25429c3"
+hash = "c5c79054c0fe0b73e75f871f003fef87ed3be204cabd77c5df6cf6bb149f379c"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "5f9ec16cdfbd68255afb4ef259c427d14c16bdf3fa1e6afa3f17bc3cd8f70c2a"
+hash = "3e193c7ff0de7e5a26a8064f083480193c7cba0d1195735e315ee9e85715dcc5"
 metafile = true
 
 [[files]]
@@ -467,12 +467,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
 metafile = true
 
 [[files]]
 file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "af812606cf4095937c62210f46df59ca76b0fd6c5e890446290059fc5667f6ca"
+hash = "cc1449fd0f8a6916b0ecfbb9a82eb33a98364a2f60d0cab1cfda908ea88ca755"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/visiblebarriers.pw.toml"
-hash = "d695c1fcc3c6df535d86d39e98605bff7bdc6a978c40e6b4274ba7ec2544471d"
+hash = "93e39d27b70eb24de72dd57fa700106cfd9b9b91da10935d0d656ff7c388784f"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "f94769cf1233dd2c919693677be0eb53976d471674b2901a62d6251ceb8c5158"
+hash = "93e2bb699bae8854559b94395f8d3468682f61b52db24a8a076b946a87635e3c"
 metafile = true
 
 [[files]]
@@ -572,5 +572,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
+hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
 metafile = true
