@@ -1,13 +1,13 @@
 name = "Faster Random"
-filename = "fastrandom-1.2.jar"
+filename = "fastrandom-1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RfFxanNh/versions/jcnEmIvt/fastrandom-1.2.jar"
+url = "https://cdn.modrinth.com/data/RfFxanNh/versions/Rs4Ofgjz/fastrandom-1.3.jar"
 hash-format = "sha1"
-hash = "c9373cc9f64cae22196ab4b7b8892973c6ea33d3"
+hash = "39663a739bba01c8c127f0a017779a0d7b244b94"
 
 [update]
 [update.modrinth]
 mod-id = "RfFxanNh"
-version = "jcnEmIvt"
+version = "Rs4Ofgjz"
