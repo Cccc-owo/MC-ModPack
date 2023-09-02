@@ -16,6 +16,11 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "9f8df5cd59d9d9bcccbeff4acd3950c380ec20ca535cadb7e050fa1e33462ce7"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/bounced.pw.toml"
+hash = "0d41b33c13b1b8df02a37b37290474c6aa1a8329d674e96b8674c13dd03aef2c"
 metafile = true
 
 [[files]]
@@ -406,6 +416,11 @@ hash = "46a0a322619e87b895152debdb7736d7e1bf64958573e5eccbfe31a0ce8ea0fc"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "77d7c8d4a6e8db6ee82ea213d73d1697a787414d3390a0bab4cac6dc2120b5d6"
+metafile = true
+
+[[files]]
 file = "mods/nmuk.pw.toml"
 hash = "c5c79054c0fe0b73e75f871f003fef87ed3be204cabd77c5df6cf6bb149f379c"
 metafile = true
@@ -423,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "18320187f9ba5f8e29b6b47375739d0e489acfeeb64ad5ab6534800eb4daa880"
 metafile = true
 
 [[files]]
