@@ -25,7 +25,7 @@ jobs:
           ./untested.bat
 
       - name: Upload a Build Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           # Artifact name
           name: Modpack-Artifact # optional, default is artifact
