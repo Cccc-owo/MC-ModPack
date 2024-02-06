@@ -1,13 +1,13 @@
 name = "Visible Toggle Sprint"
-filename = "VisibleToggleSprint-fabric-1.20.1-1.5.1.jar"
+filename = "VisibleToggleSprint-fabric-1.20.2-1.6.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kwcjLDqx/versions/ycxSZn5d/VisibleToggleSprint-fabric-1.20.1-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/kwcjLDqx/versions/z6EdScjF/VisibleToggleSprint-fabric-1.20.2-1.6.0.jar"
 hash-format = "sha1"
-hash = "55afcd9423c85c93bfcba14b4dac6bc4ac632299"
+hash = "ab8eeb49a7f8a1ae86ba1c8eff684425dff92eca"
 
 [update]
 [update.modrinth]
 mod-id = "kwcjLDqx"
-version = "ycxSZn5d"
+version = "z6EdScjF"

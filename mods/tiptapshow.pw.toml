@@ -1,13 +1,13 @@
 name = "TipTapShow"
-filename = "tiptapshow-1.3.1+1.20.1.jar"
+filename = "tiptapshow-1.5.0+1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lIQY64qr/versions/xFPPNZj8/tiptapshow-1.3.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/lIQY64qr/versions/b7UTAdZR/tiptapshow-1.5.0%2B1.20.4.jar"
 hash-format = "sha1"
-hash = "d6c11e987a5d63c75ea9658560b88eed76ee8bae"
+hash = "d81bf78613eeb834dc2df0a19ce46f504696e078"
 
 [update]
 [update.modrinth]
 mod-id = "lIQY64qr"
-version = "xFPPNZj8"
+version = "b7UTAdZR"
