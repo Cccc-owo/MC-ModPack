@@ -1,0 +1,13 @@
+name = "It Follows!"
+filename = "itfollows-1.20-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pLCpicf0/versions/gYr5Yq27/itfollows-1.20-1.0.1.jar"
+hash-format = "sha1"
+hash = "063e7b26cdbc7578700304bafb32d9c16c3be5da"
+
+[update]
+[update.modrinth]
+mod-id = "pLCpicf0"
+version = "gYr5Yq27"

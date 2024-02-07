@@ -1,0 +1,13 @@
+name = "Effect Tooltips"
+filename = "EffectTooltips-Fabric-1.20.4-12.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qc0LobOe/versions/hxWwFVjO/EffectTooltips-Fabric-1.20.4-12.0.2.jar"
+hash-format = "sha1"
+hash = "0cf6aa5f5b8030def259a0f027d42cf8a8054be2"
+
+[update]
+[update.modrinth]
+mod-id = "qc0LobOe"
+version = "hxWwFVjO"

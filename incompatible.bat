@@ -8,7 +8,7 @@ cd mods
 ::=====END=====
 
 ::Delete the incompatible ( maybe ) mods
-DEL /F /S /Q carpet-fixes.pw.toml
+::DEL /F /S /Q carpet-fixes.pw.toml
 
 ::Refresh packwiz index
 cd ..
