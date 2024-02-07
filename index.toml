@@ -526,11 +526,6 @@ hash = "8af0498985199521d879461eb88b00f5d3ba96c25637f6fbe9d0edcc436b5da6"
 metafile = true
 
 [[files]]
-file = "mods/tiptapshow.pw.toml"
-hash = "abd83ee600562626600cd43826addf5d85901cfb7ccd98970fa4da3eb060cf5a"
-metafile = true
-
-[[files]]
 file = "mods/transparent.pw.toml"
 hash = "5528e99953ed94280442fc103f6cd917d7d2c838f065f77e812b5338e7bcf143"
 metafile = true
