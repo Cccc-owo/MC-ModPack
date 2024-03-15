@@ -1,13 +1,13 @@
 name = "Level Text Fix"
-filename = "LevelTextFix-Fabric-1.20.4-10.0.2.jar"
+filename = "LevelTextFix-Fabric-1.20.4-10.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/trJAIZhE/versions/XG1lgFzO/LevelTextFix-Fabric-1.20.4-10.0.2.jar"
+url = "https://cdn.modrinth.com/data/trJAIZhE/versions/3qzFTQBY/LevelTextFix-Fabric-1.20.4-10.0.3.jar"
 hash-format = "sha1"
-hash = "a3480f34e5df95d52e6331be4c24f4def4b00914"
+hash = "5a116fcf02add304c13ab27e439a9946c5438441"
 
 [update]
 [update.modrinth]
 mod-id = "trJAIZhE"
-version = "XG1lgFzO"
+version = "3qzFTQBY"
