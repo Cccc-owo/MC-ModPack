@@ -1,13 +1,13 @@
 name = "Staaaaaaaaaaaack (Stxck)"
-filename = "staaaaaaaaaaaack-fabric-1.20.4-1.4-68.jar"
+filename = "staaaaaaaaaaaack-fabric-1.20.4-1.5-72.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/myL7fuqp/versions/MIWXY4PZ/staaaaaaaaaaaack-fabric-1.20.4-1.4-68.jar"
+url = "https://cdn.modrinth.com/data/myL7fuqp/versions/mQJuJFID/staaaaaaaaaaaack-fabric-1.20.4-1.5-72.jar"
 hash-format = "sha1"
-hash = "a8d09f866ac675027e90b653cf6a6246baa091c8"
+hash = "3cd04658478b157a59fa413a871c497d7aaa5e30"
 
 [update]
 [update.modrinth]
 mod-id = "myL7fuqp"
-version = "MIWXY4PZ"
+version = "mQJuJFID"

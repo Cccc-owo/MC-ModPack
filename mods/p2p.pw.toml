@@ -1,13 +1,13 @@
 name = "P2P"
-filename = "P2P-0.0.11-1.20.4-alpha.jar"
+filename = "P2P-0.0.13-1.20.4-alpha.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/r78TzJYQ/versions/1BEu0RPr/P2P-0.0.11-1.20.4-alpha.jar"
+url = "https://cdn.modrinth.com/data/r78TzJYQ/versions/QIPmD96N/P2P-0.0.13-1.20.4-alpha.jar"
 hash-format = "sha1"
-hash = "fc225ecc5a9863ad7fc3b4e4689bb7fa1f173098"
+hash = "7071e9fe5c377837a0a9b99529e7694f531edfd8"
 
 [update]
 [update.modrinth]
 mod-id = "r78TzJYQ"
-version = "1BEu0RPr"
+version = "QIPmD96N"
