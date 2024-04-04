@@ -1,13 +1,13 @@
 name = "Tape Stop"
-filename = "tapestop-1.20-2.0.2.jar"
+filename = "tapestop-1.20-3.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/i6WipvFw/versions/xxBNVJzk/tapestop-1.20-2.0.2.jar"
+url = "https://cdn.modrinth.com/data/i6WipvFw/versions/qZoTCLzb/tapestop-1.20-3.0.0.jar"
 hash-format = "sha1"
-hash = "1d1cfc60fdf2c07d55b9933497d4cd4d0b363ff7"
+hash = "46e7ed79bfff5009a2dc8485faa7de7258c9b0ff"
 
 [update]
 [update.modrinth]
 mod-id = "i6WipvFw"
-version = "xxBNVJzk"
+version = "qZoTCLzb"
