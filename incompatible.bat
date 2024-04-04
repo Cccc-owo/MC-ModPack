@@ -6,9 +6,6 @@ cd mods
 DEL /F /S /Q allow-portal-guis.pw.toml
 DEL /F /S /Q ebe.pw.toml
 DEL /F /S /Q faster-random.pw.toml
-DEL /F /S /Q iris.pw.toml
-DEL /F /S /Q litematica.pw.toml
-DEL /F /S /Q litemoretica.pw.toml
 DEL /F /S /Q p2p.pw.toml
 ::Note:
 ::- Wait for iris update
