@@ -216,6 +216,11 @@ hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
 
 [[files]]
+file = "mods/forgotten-graves.pw.toml"
+hash = "af649c721a6ea14df5c0816aea83a22572df6f725cbd7fb58abc0249707e738b"
+metafile = true
+
+[[files]]
 file = "mods/gamma-shifter.pw.toml"
 hash = "fd44ca2d8bee8dabda4837fbf782efcd5b3f769ddda5c5a913e2988cf7e10426"
 metafile = true
