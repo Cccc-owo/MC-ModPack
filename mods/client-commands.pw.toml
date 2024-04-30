@@ -1,13 +1,13 @@
 name = "clientcommands"
-filename = "clientcommands-2.8.14.jar"
+filename = "clientcommands-2.8.17.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/7Coz83fv/versions/9Bycsk6V/clientcommands-2.8.14.jar"
+url = "https://cdn.modrinth.com/data/7Coz83fv/versions/oEQeZ2Ro/clientcommands-2.8.17.jar"
 hash-format = "sha1"
-hash = "b0f3353be77a9a4c12432a1214ae0999491ce78b"
+hash = "dab5cb13e93d8cf1b9362eb9cba8263b4b580190"
 
 [update]
 [update.modrinth]
 mod-id = "7Coz83fv"
-version = "9Bycsk6V"
+version = "oEQeZ2Ro"
