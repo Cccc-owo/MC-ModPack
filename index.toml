@@ -101,6 +101,11 @@ hash = "f1cea27f5ae59cf1eb5616a1b80e875f6b5ec7c45da005ba7654dc8977e5eaf1"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "0726f8ea6794e9a73be3f85c988183d93e6c7b632808c28c09d04ac8c507d232"
+metafile = true
+
+[[files]]
 file = "mods/client-commands.pw.toml"
 hash = "673431e374461bf7c3537c8db4a41a3f3410a901c164a2f501684b63b51fac55"
 metafile = true
