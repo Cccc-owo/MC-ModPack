@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/allow-portal-guis.pw.toml"
-hash = "0027071ba56fcb5b90423659bd82b9d4b69deeb25c7beae1f358f1ac51c8abfd"
+hash = "8fad9c26feb5fa62cb7d8852ac01d6c765c1654dcfba60d6a18c148b65b0d1ce"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "af7fd9d3c9e3c010fbe814edc39ddfcd46922f90eea135adf21cfd08a10ad033"
+hash = "b88bbb12662546da84828fb1547f1615b6fbccfac8e861d1a1bd3be708728b4a"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8f37fdd79b3c14043a02703dfe1a8da35c7ab8b40a9729c2e9e0bd42e5a92279"
+hash = "1c267253fb20ff2891b75a531cb6c080d39ee416a417a0fc8814abeaed13383b"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "065cd3632e86519e4785ebab2d39749753ffd9e82112773e79fd5bf1dad4a1b9"
+hash = "fc89119ebc9c811ef3cd852556b5caaa27c03eb8fb0014567dd83cc44024ba98"
 metafile = true
 
 [[files]]
