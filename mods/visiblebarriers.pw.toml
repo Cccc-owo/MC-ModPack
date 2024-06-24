@@ -1,6 +1,6 @@
 name = "Visible Barriers"
 filename = "visiblebarriers-1.20.6-2.0.13.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ajdfGxGU/versions/jDBlcrkW/visiblebarriers-1.20.6-2.0.13.jar"
