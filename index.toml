@@ -106,6 +106,11 @@ hash = "1db95d051fa9d468efca6690c1fe9cc529c6881c778fac9ad22acb03c4d3655b"
 metafile = true
 
 [[files]]
+file = "mods/clist.pw.toml"
+hash = "ef1d1fcd6640ed0e1e96412d6fab8c2cec5f45e38a01944163c64ccfad31ac94"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
 metafile = true
@@ -468,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "2229493f8e8a94db2b3a7e7a6fe00b8a36070bf8d3770a509f60c10a2f1d04a1"
+metafile = true
+
+[[files]]
+file = "mods/screenfx.pw.toml"
+hash = "9b1158e9ddfc2ad227e34a7e6c3343b64d4352e041c6c9ce7fbca0b7e5515cf7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "CList"
+filename = "coordinatelist-1.6.2-1.20.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OB9VEcWN/versions/vbF4BvKj/coordinatelist-1.6.2-1.20.6.jar"
+hash-format = "sha1"
+hash = "77656b5e6d290ea8936a40a48db1fe1ba505fc77"
+
+[update]
+[update.modrinth]
+mod-id = "OB9VEcWN"
+version = "vbF4BvKj"
