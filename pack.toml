@@ -1,6 +1,6 @@
 name = "C'SimpleModPack"
 author = "Cccc_"
-version = "3.2.1"
+version = "3.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "e1d89811cc3bb0f40711acaacd0d5f82dc5d9ad4aafce6dca40d029e2d161676"
 
 [versions]
-fabric = "0.15.10"
+fabric = "0.15.11"
 minecraft = "1.20.6"
