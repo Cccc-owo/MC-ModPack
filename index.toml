@@ -101,6 +101,11 @@ hash = "0917b52228d6540dd5e5792c137647ae7e9e2c9c17722da5b68acc9ca8e7f38f"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "007a4eed9c057777f914e9f88bdf76fc96e27b3472378eca912bbc6015def933"
+metafile = true
+
+[[files]]
 file = "mods/client-commands.pw.toml"
 hash = "1db95d051fa9d468efca6690c1fe9cc529c6881c778fac9ad22acb03c4d3655b"
 metafile = true
@@ -206,6 +211,11 @@ hash = "ee5790a9d882421fbe0955d4386b7b36a1d9135caa8e62bc5a5724b0a56a6787"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "c83f8281da61d4db18b376793cd273972993aac6630f97d78733d2c184a56dac"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "7004d6d04c19eaa92fda0b47ac70b7c85987c47cc1431313014c5e9367679173"
 metafile = true
@@ -213,11 +223,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
-metafile = true
-
-[[files]]
-file = "mods/forgotten-graves.pw.toml"
-hash = "af649c721a6ea14df5c0816aea83a22572df6f725cbd7fb58abc0249707e738b"
 metafile = true
 
 [[files]]
@@ -381,11 +386,6 @@ hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
 
 [[files]]
-file = "mods/moddetectionpreventer.pw.toml"
-hash = "afab2fbd384fd1f093b7b6d1500d3227c129223b4a6e2ee62ed43b63bfae8f1d"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
 metafile = true
@@ -513,11 +513,6 @@ metafile = true
 [[files]]
 file = "mods/staaaaaaaaaaaack.pw.toml"
 hash = "36e49ae05df88710310f8acfdd6b080d05c0ac5f87528a375f3542ff4c8f9446"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
 metafile = true
 
 [[files]]
