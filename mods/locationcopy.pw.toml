@@ -1,13 +1,13 @@
 name = "Location Copy"
-filename = "locationcopy-mc1.20.4-1.0.4.jar"
+filename = "locationcopy-mc1.20.5-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wjxmHk3M/versions/YTAGActY/locationcopy-mc1.20.4-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/wjxmHk3M/versions/29AO32Ma/locationcopy-mc1.20.5-1.1.1.jar"
 hash-format = "sha1"
-hash = "f512624d7e654b4420cc1f2c01b1467ad27bd8ef"
+hash = "8d98a12c389685d98e72f36a07854f6d48e03d8a"
 
 [update]
 [update.modrinth]
 mod-id = "wjxmHk3M"
-version = "YTAGActY"
+version = "29AO32Ma"
