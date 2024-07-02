@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8c8a9578de59d6ceb9a1d6ca825b1ce8a3a679a35bd91513a8ad7bb54c925f9c"
+hash = "9da003a638c9941d44af178eebc1988680ccf2992e0ee321e487060200f6d055"
 metafile = true
 
 [[files]]
@@ -103,11 +103,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "951d42cf8154f811de3135952d5f444679946ab7c948e33d87da744679901803"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "cf14f57d55838c2d9cc4bade9dd9c2865cba49b8800b3cab7c061a7cfb222946"
 metafile = true
 
 [[files]]
