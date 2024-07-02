@@ -1,13 +1,13 @@
 name = "Overlay Tweaks"
-filename = "overlaytweaks-1.7.4.jar"
+filename = "OverlayTweaks 1.20.4-fabric-1.9.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wql2D9Gj/versions/quOKBeze/overlaytweaks-1.7.4.jar"
+url = "https://cdn.modrinth.com/data/wql2D9Gj/versions/FJhqby0V/OverlayTweaks%201.20.4-fabric-1.9.4.jar"
 hash-format = "sha1"
-hash = "4ff45846c9cb89748b48b1e99e86694a1ef1dcce"
+hash = "41a17a59ac9634d54a6d0a89adf2f4ca2867c2cd"
 
 [update]
 [update.modrinth]
 mod-id = "wql2D9Gj"
-version = "quOKBeze"
+version = "FJhqby0V"

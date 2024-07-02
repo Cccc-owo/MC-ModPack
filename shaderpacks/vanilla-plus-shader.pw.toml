@@ -1,0 +1,13 @@
+name = "Vanilla Plus Shader"
+filename = "VanillaPlus_v3.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EPsIYDj1/versions/4srzWowt/VanillaPlus_v3.2.zip"
+hash-format = "sha1"
+hash = "de65a77868359ae42fbb56442bbe027091622372"
+
+[update]
+[update.modrinth]
+mod-id = "EPsIYDj1"
+version = "4srzWowt"
