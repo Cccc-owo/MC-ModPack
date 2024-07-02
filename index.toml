@@ -81,6 +81,11 @@ hash = "0917b52228d6540dd5e5792c137647ae7e9e2c9c17722da5b68acc9ca8e7f38f"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "fdc5fe878f1768219f9d9d484e5da28ee4196dc8889b2545181f23c576db719e"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
 metafile = true
@@ -433,11 +438,6 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "b2db81b53e71fc73306a4a5bafb7a33662e2e3da6d77210db607466cd4c41d49"
-metafile = true
-
-[[files]]
-file = "mods/overlaytweaks.pw.toml"
-hash = "6fc8bd3956db243381bc74de38cdb96e8edea4f8799c3dfffe11847e01d3e611"
 metafile = true
 
 [[files]]
