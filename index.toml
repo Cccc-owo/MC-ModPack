@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "9da003a638c9941d44af178eebc1988680ccf2992e0ee321e487060200f6d055"
+hash = "f7ec1bd62077e12a91acb49b09f3a9af78ee51c7d6e62109ba627ecd9d10a9f0"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "fab499ae83c4bceb17b1d0c72142850185fc7c8a6cf6c487993c43aee2780561"
+hash = "1640bacec8b2ded2995fb903d3187a6ade6ecf506fc5e8eb572f634f87a251e6"
 metafile = true
 
 [[files]]
@@ -162,17 +162,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "6c59df34633f6d9cac31ac9d88e272a855df12a4466957885beb6ef5f904430e"
+hash = "333bf640fd4b8b7942ed7900b172c2a2fd3b9da1ddcdd52886dfc2aa79a37e49"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1c0633f52455c5c6db31b4d926acbbaa0890d771177b55e33eb245a7bc63b635"
+hash = "7609db7b10ab94c8f9e1e0899667768f7bad26013be5dc2bd86b2ff86fe9886b"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "880d7fcdbf0bc9e1e7e5ff3b120e9667245708a5d144b5afbad32bf39c7fc1f9"
+hash = "cf1070e84af9b1bfd67f09d1bd3ca8153b7020789116e1bbbce3408284faf523"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "e54aa7c21f022dd44393975d1d14c4238f23f228432b7b91c5f899fcc15464a3"
+hash = "86a353a8454402a9f52c26ab43930e57ece532880960764957aed6fdc1e08f14"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8ef792d3eeb1e5d220a01ba035c887afc4cfd06f8b5daffe2770bdb6a6bef512"
+hash = "f9528821aa643fdf06c6ee1a5e5e8a2f401949c557d56bbfd30b38eb165e0d12"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "50c7a9d1825bdf0579a4a1e76587db455f0f0dc224543900b118d7c5349c4c03"
+hash = "6567092f5c6e5a1ffaf3d5f414304cfc5e617fbe9644f2420e2b20570c1657c9"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "77c1351b5ea98c043b7c9b9214a07f8ad4c7a3593a8c525c75a883df38b0edb0"
+hash = "ddfe93d4e27096a8c797a7216ce592bc5e0e068626e9e4054b79cf52cb1157e9"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
+hash = "88e40e1591ad381291207cce0d547507ae6ca44893185a1e7ef37b7b86f29e57"
 metafile = true
 
 [[files]]
