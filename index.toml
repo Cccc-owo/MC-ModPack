@@ -231,11 +231,6 @@ hash = "5164f77edbb71cc688a477ed3bd6864f3e555acf4252ec09470dc48280342b42"
 metafile = true
 
 [[files]]
-file = "mods/forgotten-graves.pw.toml"
-hash = "0a9260acec1f26023c7a2623bcb5f3750e53812ce8f55bb61761d2337480f0a2"
-metafile = true
-
-[[files]]
 file = "mods/headfix.pw.toml"
 hash = "5ba85e15fd70b8f68009ec186702495fe611a7a8ef389a04e9eda57a55eca94e"
 metafile = true
