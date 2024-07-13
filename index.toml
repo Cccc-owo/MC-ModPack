@@ -1,6 +1,62 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/autohud.json5"
+hash = "b58526feca02747c0c631084cf5a850d8d69a2ea9e32dafd01dc80c3e63c0a2b"
+
+[[files]]
+file = "config/bettergrass.json5"
+hash = "7afe342f06f09ed9547aa71722724e4a5720a08e328e52afbd0d0fd006a95a11"
+
+[[files]]
+file = "config/betterhurtcam.toml"
+hash = "56ce66b26347e5d1984ae00710e9f1cdddf3873a9056f2ab6579401d7ab00e07"
+
+[[files]]
+file = "config/bridgingmod.json"
+hash = "d09241d4ab4b5aa7745ae1ad097c896a453333abcb7788e6792fbe8a7db686c2"
+
+[[files]]
+file = "config/emi.css"
+hash = "3195827fa0516ed3d39a844e5640140a18d9969f5b2ce6d311ee65daed86ee73"
+
+[[files]]
+file = "config/flightassistant/computers.json5"
+hash = "ed20e8f6f4ff4dab83be9047fb0bffc60cb752e842a4aa05e975b3e54e356f01"
+
+[[files]]
+file = "config/flightassistant/hud.json5"
+hash = "4a7b8929caacdfd1eb338ac146585ad83d5e7efced695ed9196c8fa796a6f3d3"
+
+[[files]]
+file = "config/flightassistant/indicators.json5"
+hash = "91a93997886037fd746dcf2747c4a66b3d60edb3e588471b3c99bfbc7c76ab52"
+
+[[files]]
+file = "config/gamma_shifter.properties"
+hash = "242187210261f33a266af61ef55082496132ed050c99fc27094b4189386fc839"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "9455c9d63ba67fd65b7bce3e2d84a3aa06c30bfb7bed3f2b67b1175ed73b5db9"
+
+[[files]]
+file = "config/inventoryprofilesnext/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/locationcopy/config.properties"
+hash = "538d0f80b92ded303cbefcb7069f7fc92e955ebac8c6d80bde3d8fdc586a691e"
+
+[[files]]
+file = "config/visiblebarriers.json"
+hash = "c86fe49eb43860d75b500a1f3ce633513583eff2916b4a68a628aca8a7167b35"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
+
+[[files]]
 file = "mods/allow-portal-guis.pw.toml"
 hash = "8fad9c26feb5fa62cb7d8852ac01d6c765c1654dcfba60d6a18c148b65b0d1ce"
 metafile = true
@@ -574,6 +630,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "b8e2a94fbe58344db3f5d075082883c767a1aa14f14c83387a7cdde8734cf372"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "d6e8f6135a32497f95156c9887daa2b06276ad19b99b97afd394e4f0e41b5dde"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"

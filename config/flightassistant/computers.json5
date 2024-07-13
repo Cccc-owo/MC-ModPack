@@ -1,0 +1,19 @@
+{
+	globalMode: "DISABLED",
+	lockUnsafeFireworks: false,
+	lockFireworksFacingTerrain: false,
+	stallWarning: "SCREEN_ONLY",
+	stallProtection: "SOFT",
+	stallUseFireworks: true,
+	sinkrateWarning: "SCREEN_ONLY",
+	sinkrateProtection: "SOFT",
+	terrainWarning: "SCREEN_ONLY",
+	terrainProtection: "SOFT",
+	landingClearanceWarning: "SCREEN_ONLY",
+	voidProtection: "SOFT",
+	voidUseFireworks: true,
+	closeElytraUnderwater: false,
+	openElytraAutomatically: false,
+	preserveAltitudeInUnloadedChunk: false,
+	simulateEngine: true
+}
