@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/bounced.pw.toml"
-hash = "528de42fed20785e8b4544af412209010a10395cddb6df46513be27db9ad8876"
+hash = "b55838140b2009722f2c4e5995599f0b5c7cee0c77896ca7c1a74792cd2b3847"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ddfe93d4e27096a8c797a7216ce592bc5e0e068626e9e4054b79cf52cb1157e9"
+hash = "a8d21fdf3561fd014d0606c71966a8aa304529b2b12a46e5f27e136141ac7588"
 metafile = true
 
 [[files]]
