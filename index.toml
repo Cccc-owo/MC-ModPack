@@ -13,14 +13,6 @@ file = "config/betterhurtcam.toml"
 hash = "56ce66b26347e5d1984ae00710e9f1cdddf3873a9056f2ab6579401d7ab00e07"
 
 [[files]]
-file = "config/bridgingmod.json"
-hash = "d09241d4ab4b5aa7745ae1ad097c896a453333abcb7788e6792fbe8a7db686c2"
-
-[[files]]
-file = "config/emi.css"
-hash = "3195827fa0516ed3d39a844e5640140a18d9969f5b2ce6d311ee65daed86ee73"
-
-[[files]]
 file = "config/flightassistant/computers.json5"
 hash = "ed20e8f6f4ff4dab83be9047fb0bffc60cb752e842a4aa05e975b3e54e356f01"
 
@@ -31,10 +23,6 @@ hash = "4a7b8929caacdfd1eb338ac146585ad83d5e7efced695ed9196c8fa796a6f3d3"
 [[files]]
 file = "config/flightassistant/indicators.json5"
 hash = "91a93997886037fd746dcf2747c4a66b3d60edb3e588471b3c99bfbc7c76ab52"
-
-[[files]]
-file = "config/gamma_shifter.properties"
-hash = "242187210261f33a266af61ef55082496132ed050c99fc27094b4189386fc839"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -633,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d6e8f6135a32497f95156c9887daa2b06276ad19b99b97afd394e4f0e41b5dde"
+hash = "ad584f7c04f806f3160b93b8b3b2d8d324f412be1e77bb0e26b419d43069469e"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
@@ -669,6 +657,10 @@ metafile = true
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "a8d21fdf3561fd014d0606c71966a8aa304529b2b12a46e5f27e136141ac7588"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "25626692e5e792610f4cc98d2d2369222dc036e2e8a2bd4adca07ef34c71d36f"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
