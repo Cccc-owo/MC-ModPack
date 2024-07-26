@@ -60,11 +60,6 @@ hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
-file = "mods/autohud.pw.toml"
-hash = "64a413833d80fb738e4a1a28cccb63e4df9a2c1ae925a3b902b75418a95f84ae"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -272,11 +267,6 @@ metafile = true
 [[files]]
 file = "mods/flash.pw.toml"
 hash = "1e77da986f37e15db9b27d0a735a707a5db1c678e195ff990d45147caa8a0491"
-metafile = true
-
-[[files]]
-file = "mods/flightassistant.pw.toml"
-hash = "95cb7bad597403ac46ffbc7c235e32053b2918b86d44e0212760c08172b71dce"
 metafile = true
 
 [[files]]
@@ -500,6 +490,11 @@ hash = "61b8064d3fd4e02d001c1c7ea0a1c35909bf24c8fc36d01aaefe24e401a33eb8"
 metafile = true
 
 [[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "a06c64955618fab6a4668eaac97f68adb210237519ecc7766362ee54bd5edde4"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "883b162391bc26090229e32efd6ec737385f7b15be8068eb9a5b9e50b1575c98"
 metafile = true
@@ -540,6 +535,11 @@ hash = "dd23e050c76611a38fb17613b55d804689b54f4ce1a85e2bee6ffc89e7004796"
 metafile = true
 
 [[files]]
+file = "mods/simple-armor-hud.pw.toml"
+hash = "4e20be7ba8b14825f51c689767c502b24bfe683a2eeef622246f37c6aca9db69"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f9528821aa643fdf06c6ee1a5e5e8a2f401949c557d56bbfd30b38eb165e0d12"
 metafile = true
@@ -562,6 +562,11 @@ metafile = true
 [[files]]
 file = "mods/symbol-chat.pw.toml"
 hash = "39e8df5422640e5aa5f1c433c2b61f4d6fe37fae181621ea3758c595d19bed4e"
+metafile = true
+
+[[files]]
+file = "mods/third-person-maps.pw.toml"
+hash = "37e2827c3f5da9c4bbdb27b5c039965e9d35e9eb35eba4e5d62b11c878ab68e8"
 metafile = true
 
 [[files]]
@@ -600,8 +605,18 @@ hash = "d5fa0e898cb2233b7928c1b6109d041e3f0a507bdbdca6aefabbb4462044d9c6"
 metafile = true
 
 [[files]]
+file = "mods/waig.pw.toml"
+hash = "28a8c5a94bf05fcebdc4065b38a06dbf70175909f4b9e1201f71c2ba1b8d08b7"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "6567092f5c6e5a1ffaf3d5f414304cfc5e617fbe9644f2420e2b20570c1657c9"
+metafile = true
+
+[[files]]
+file = "mods/world-preview.pw.toml"
+hash = "48bf4add8096cc8ef5efb85d1d8647da16774bcf2d214d754ce5e0a8393c1d52"
 metafile = true
 
 [[files]]
