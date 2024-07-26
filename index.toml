@@ -1,48 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/autohud.json5"
-hash = "b58526feca02747c0c631084cf5a850d8d69a2ea9e32dafd01dc80c3e63c0a2b"
+file = "config/chunksfadein.properties"
+hash = "4c8f18d8f017bebd42a25adc1ab3fe46c13eee010a0ebb02ad93e60130e59be8"
 
 [[files]]
-file = "config/bettergrass.json5"
-hash = "7afe342f06f09ed9547aa71722724e4a5720a08e328e52afbd0d0fd006a95a11"
-
-[[files]]
-file = "config/betterhurtcam.toml"
-hash = "56ce66b26347e5d1984ae00710e9f1cdddf3873a9056f2ab6579401d7ab00e07"
-
-[[files]]
-file = "config/flightassistant/computers.json5"
-hash = "ed20e8f6f4ff4dab83be9047fb0bffc60cb752e842a4aa05e975b3e54e356f01"
-
-[[files]]
-file = "config/flightassistant/hud.json5"
-hash = "4a7b8929caacdfd1eb338ac146585ad83d5e7efced695ed9196c8fa796a6f3d3"
-
-[[files]]
-file = "config/flightassistant/indicators.json5"
-hash = "91a93997886037fd746dcf2747c4a66b3d60edb3e588471b3c99bfbc7c76ab52"
+file = "config/emi.css"
+hash = "3195827fa0516ed3d39a844e5640140a18d9969f5b2ce6d311ee65daed86ee73"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "9455c9d63ba67fd65b7bce3e2d84a3aa06c30bfb7bed3f2b67b1175ed73b5db9"
 
 [[files]]
-file = "config/inventoryprofilesnext/villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
-file = "config/locationcopy/config.properties"
-hash = "538d0f80b92ded303cbefcb7069f7fc92e955ebac8c6d80bde3d8fdc586a691e"
-
-[[files]]
-file = "config/visiblebarriers.json"
-hash = "c86fe49eb43860d75b500a1f3ce633513583eff2916b4a68a628aca8a7167b35"
-
-[[files]]
-file = "config/zoomify.json"
-hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
+file = "config/languagereload.json"
+hash = "e9de74cd783ac8b97b08c44216531fab1462b51573484029c468d29056e8b3c1"
 
 [[files]]
 file = "mods/allow-portal-guis.pw.toml"
@@ -380,6 +352,11 @@ hash = "962dddb3d561cfb056c53b5b308016b83755651c1c462cb6abc0889471ca36e9"
 metafile = true
 
 [[files]]
+file = "mods/map-in-slot.pw.toml"
+hash = "31a0c61ea9ba02f396a4270783c7c108ad111430ecefe046cf9c9aaafa2b6767"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "945e4785861142eb0c9443cbd3dea6278bd7bcedeb803b486c531a70204ff14e"
 metafile = true
@@ -487,11 +464,6 @@ metafile = true
 [[files]]
 file = "mods/peek.pw.toml"
 hash = "61b8064d3fd4e02d001c1c7ea0a1c35909bf24c8fc36d01aaefe24e401a33eb8"
-metafile = true
-
-[[files]]
-file = "mods/pl3xmap.pw.toml"
-hash = "a06c64955618fab6a4668eaac97f68adb210237519ecc7766362ee54bd5edde4"
 metafile = true
 
 [[files]]

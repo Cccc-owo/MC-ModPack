@@ -1,6 +1,0 @@
-{
-	batchedRendering: "SINGLE_BATCH",
-	hudScale: 1.0,
-	frameWidth: 0.6,
-	frameHeight: 0.6
-}
