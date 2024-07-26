@@ -1,13 +1,13 @@
 name = "Flash"
-filename = "flash-2.1.0-fabric1.20.jar"
+filename = "flash-2.1.1-fabric.1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Zmu8jXWA/versions/efvNlDkn/flash-2.1.0-fabric1.20.jar"
+url = "https://cdn.modrinth.com/data/Zmu8jXWA/versions/gbmdebcS/flash-2.1.1-fabric.1.20.jar"
 hash-format = "sha1"
-hash = "d3d3bc7b9beac80ac3d403c8d7b4e93d47dd106a"
+hash = "be2dd97068274e6c9306deb79c5385c55404df52"
 
 [update]
 [update.modrinth]
 mod-id = "Zmu8jXWA"
-version = "efvNlDkn"
+version = "gbmdebcS"
