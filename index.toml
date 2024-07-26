@@ -76,12 +76,12 @@ metafile = true
 
 [[files]]
 file = "mods/bounced.pw.toml"
-hash = "b55838140b2009722f2c4e5995599f0b5c7cee0c77896ca7c1a74792cd2b3847"
+hash = "97f748830d21d2253aafd5aeca9e1687a8f8320783a3bb4328aca34a3e3519f9"
 metafile = true
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
-hash = "14fd99dde043f32165286ff15083e4993f9fc42a1466ab2a3fa7a810b3c41280"
+hash = "a69d2c5814ee9e5ae4ec9c2498c316fba96b5214b786906d45f68b8c0bd0de0a"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "fdc5fe878f1768219f9d9d484e5da28ee4196dc8889b2545181f23c576db719e"
+hash = "54aafd7cfed7d028885daef6000ea20896e6bcf228dfb793d688b07af82f4d0f"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "1640bacec8b2ded2995fb903d3187a6ade6ecf506fc5e8eb572f634f87a251e6"
+hash = "c4dc919c3184afbb618a51f163f2d059dcc08598f88386ec02167bf4a33d5024"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d66ea8c1b07884fd9de62cfbd344a74760388b9d19b0d82c32557e3edb4daad9"
+hash = "dd5845c1871ac495fe753326607220b119ddfe18bf0d139e011cb944da020d18"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "86a353a8454402a9f52c26ab43930e57ece532880960764957aed6fdc1e08f14"
+hash = "aa3f66604d1ab9985a81a72ed7332fb3746a00ea7200cf018933a763ffc60027"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/faded-widgets.pw.toml"
-hash = "754ea8815e4978fab740a08086dc2e95180c9e5c3448904d251182d01d9dfb11"
+hash = "a6fcec20efe2af87557c28748789b2043c699276f60db12e811118f513b1dfc4"
 metafile = true
 
 [[files]]
@@ -271,12 +271,12 @@ metafile = true
 
 [[files]]
 file = "mods/flash.pw.toml"
-hash = "23e66fbf491e1cc21b16a5c642df04617b22100a53aac6454e7967cca36b8833"
+hash = "1e77da986f37e15db9b27d0a735a707a5db1c678e195ff990d45147caa8a0491"
 metafile = true
 
 [[files]]
 file = "mods/flightassistant.pw.toml"
-hash = "f36f60a7bde464f8ff250ffae5c6dab177961dded1c90ece240aca0ae4dd78b3"
+hash = "95cb7bad597403ac46ffbc7c235e32053b2918b86d44e0212760c08172b71dce"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/it-follows!.pw.toml"
-hash = "0c3c31f5262252a797e8aad01297cc7cb7ffc354db28b38b86197eed73b7066a"
+hash = "e3d588d8dfac51ec314c11a5d00be62da5b81b1750b2f238adb900b891e3ff81"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "3beaddb4e2c4e0a67462bbd236a1da078d5154c94e113f88ab9734bd48343bcf"
+hash = "1ac03f622c524c19361a11d72ae1712920425b75a99a28d15fe109f284da7424"
 metafile = true
 
 [[files]]
@@ -491,12 +491,12 @@ metafile = true
 
 [[files]]
 file = "mods/paperdoll.pw.toml"
-hash = "799fb1530bfaa4a52b0d816c7fdba46f012f2bfe662eea52e41a355188e0fdac"
+hash = "cbf19186e55f695063b61b6007597af44e69440152edf00851c619a9f497d63e"
 metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "539a393751886262b0116b3b01db329949cbe684ab68d8fdc790bca56f382df1"
+hash = "61b8064d3fd4e02d001c1c7ea0a1c35909bf24c8fc36d01aaefe24e401a33eb8"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "7b59bf747066ec9c732155f365efe1fa6c7ea5dd3153635a5177a801eed949df"
+hash = "79f529f1af08c14cf4878c36bbb2c7bea12437c450e8bd8483d56e23ba1bbaf4"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/f8thful.pw.toml"
-hash = "a92c9d1f5b614461df48dd8b55bed501c13c441e0ec3f987c719e5a3cde421a4"
+hash = "b845a5da44861951c58780257bddda0ce9c348177de290ba7865e2230021462c"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a8d21fdf3561fd014d0606c71966a8aa304529b2b12a46e5f27e136141ac7588"
+hash = "8512a8da6c3f08d233b3af1a4c94a1338828b0735c4b4fd8541acb7f589505b3"
 metafile = true
 
 [[files]]
