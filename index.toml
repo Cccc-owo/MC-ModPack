@@ -9,12 +9,28 @@ file = "config/emi.css"
 hash = "3195827fa0516ed3d39a844e5640140a18d9969f5b2ce6d311ee65daed86ee73"
 
 [[files]]
+file = "config/fabrishot.properties"
+hash = "b022777108a5bfd4cfe56cafaa2289662c3849326aac7bc7ce074356269636f5"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "9455c9d63ba67fd65b7bce3e2d84a3aa06c30bfb7bed3f2b67b1175ed73b5db9"
 
 [[files]]
 file = "config/languagereload.json"
 hash = "e9de74cd783ac8b97b08c44216531fab1462b51573484029c468d29056e8b3c1"
+
+[[files]]
+file = "config/malilib.json"
+hash = "c7486c0c1e198b7227066f1926389117aab9d4705aca3911ed3aceb450669e4b"
+
+[[files]]
+file = "config/minihud.json"
+hash = "7d22af050719b05e9d2bec72143376fd0ce172cd26c886b247228185d0a4b623"
+
+[[files]]
+file = "config/tweakeroo.json"
+hash = "135be26db14375d871a2d8d5e6d2a4ebb22ff2c68ef3c3a732365624a4baba9a"
 
 [[files]]
 file = "mods/allow-portal-guis.pw.toml"
@@ -608,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ad584f7c04f806f3160b93b8b3b2d8d324f412be1e77bb0e26b419d43069469e"
+hash = "24fab9ae6262d24999a3d24b6fc0b25bf2415bb5b5b24c52ef103fe5dbd168d9"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
