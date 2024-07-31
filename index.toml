@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
+hash = "1536d819cbc31660c69849ac9a6cc920cf2cef56cd6b20f94e031dd45547bfa0"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "f7ec1bd62077e12a91acb49b09f3a9af78ee51c7d6e62109ba627ecd9d10a9f0"
+hash = "4c9dc2e5b7444705e49ec6b93cffc326f6bb592890a0af257e10948c76ec98a8"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "dd5845c1871ac495fe753326607220b119ddfe18bf0d139e011cb944da020d18"
+hash = "c95275cea31ddab49f8c43892450e6756c70479000b55d26de27dc8fe26ef53b"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "aa3f66604d1ab9985a81a72ed7332fb3746a00ea7200cf018933a763ffc60027"
+hash = "b2ca6ab48e24f27ec53dce642b05089e0b903e9690f25985e8f906d9bcb00ecd"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/flow.pw.toml"
-hash = "5164f77edbb71cc688a477ed3bd6864f3e555acf4252ec09470dc48280342b42"
+hash = "748a33c6bc380703bfbf64f42d9a0faf019b384eaaf9dad6ddc146aceb7403b1"
 metafile = true
 
 [[files]]
@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "79f529f1af08c14cf4878c36bbb2c7bea12437c450e8bd8483d56e23ba1bbaf4"
+hash = "6c5b4024c65aa0855c5704bb857c7b984b5e0ae88ecf446c5fe0b0e45d02a4a6"
 metafile = true
 
 [[files]]
@@ -658,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "8512a8da6c3f08d233b3af1a4c94a1338828b0735c4b4fd8541acb7f589505b3"
+hash = "585963a78adbd28f86e62de2151abc442b9a003450cd7959068c1482008feee6"
 metafile = true
 
 [[files]]
