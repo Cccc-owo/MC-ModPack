@@ -29,15 +29,18 @@
     "infoLookingAtBlock": 25,
     "infoLookingAtBlockInChunk": 26,
     "infoLookingAtEntity": 23,
+    "infoLookingAtEffects": 24,
     "infoMemoryUsage": 0,
     "infoMobCaps": 10,
     "infoLoadedChunksCount": 31,
+    "infoPandaGene": 37,
     "infoParticleCount": 17,
     "infoPing": 36,
     "infoRegionFile": 29,
     "infoRotationPitch": 12,
     "infoRotationYaw": 11,
     "infoServerTPS": 9,
+    "infoServux": 10,
     "infoSlimeChunk": 22,
     "infoSpeed": 13,
     "infoSpeedAxis": 13,
@@ -48,7 +51,9 @@
     "infoTimeIRL": 1,
     "infoTimeTotalModulo": 34,
     "infoTimeWorld": 2,
-    "infoWorldTimeFormatted": 3
+    "infoWorldTimeFormatted": 3,
+    "infoWeather": 4,
+    "infoZombieConversion": 25
   },
   "Colors": {
     "beaconRangeLvl1": "#20E060FF",
@@ -90,14 +95,14 @@
     "textColor": "#FFE0E0E0"
   },
   "Generic": {
-    "axolotlTooltipsTooltips": false,
+    "axolotlTooltips": false,
     "beeTooltips": false,
     "honeyTooltips": false,
     "biomeOverlaySingleColor": true,
     "debugMessages": false,
-    "debugRendererPathFindingEnablePointWidth": true,
     "dontClearStoredSeedOnDimensionChange": true,
-    "enableVanillaDebugRendererFix": true,
+    "entityDataSync": true,
+    "entityDataSyncBackup": true,
     "lightLevelAutoHeight": false,
     "lightLevelCollisionCheck": false,
     "lightLevelColoredNumbers": true,
@@ -134,6 +139,7 @@
     "requiredKey": {
       "keys": ""
     },
+    "serverNbtRequestRate": 2,
     "setDistanceReferencePoint": {
       "keys": ""
     },
@@ -169,7 +175,19 @@
     "textPosX": 4,
     "textPosY": 4,
     "timeDayDivisor": 24000,
-    "timeTotalDivisor": 24000
+    "timeTotalDivisor": 24000,
+    "inventoryPreview": {
+      "keys": "LEFT_ALT"
+    },
+    "inventoryPreviewEnabled": false,
+    "inventoryPreviewToggleScreen": {
+      "keys": "BUTTON_3"
+    },
+    "villagerConversionTicks": true,
+    "villagerOfferEnchantmentBooks": true,
+    "villagerOfferHighestLevelOnly": false,
+    "villagerOfferLowestPriceNearby": false,
+    "villagerOfferPriceThreshold": 1.0
   },
   "InfoTypeToggles": {
     "infoBeeCount": false,
@@ -201,15 +219,18 @@
     "infoLookingAtBlock": false,
     "infoLookingAtBlockInChunk": false,
     "infoLookingAtEntity": false,
+    "infoLookingAtEffects": false,
     "infoMemoryUsage": false,
     "infoMobCaps": false,
     "infoLoadedChunksCount": false,
+    "infoPandaGene": false,
     "infoParticleCount": false,
     "infoPing": false,
     "infoRegionFile": true,
     "infoRotationPitch": false,
     "infoRotationYaw": false,
     "infoServerTPS": true,
+    "infoServux": false,
     "infoSlimeChunk": true,
     "infoSpeed": false,
     "infoSpeedAxis": false,
@@ -220,7 +241,9 @@
     "infoTimeIRL": true,
     "infoTimeTotalModulo": false,
     "infoTimeWorld": true,
-    "infoWorldTimeFormatted": false
+    "infoWorldTimeFormatted": false,
+    "infoWeather": false,
+    "infoZombieConversion": false
   },
   "InfoHotkeys": {
     "infoBeeCount": {
@@ -310,6 +333,9 @@
     "infoLookingAtEntity": {
       "keys": ""
     },
+    "infoLookingAtEffects": {
+      "keys": ""
+    },
     "infoMemoryUsage": {
       "keys": ""
     },
@@ -317,6 +343,9 @@
       "keys": ""
     },
     "infoLoadedChunksCount": {
+      "keys": ""
+    },
+    "infoPandaGene": {
       "keys": ""
     },
     "infoParticleCount": {
@@ -335,6 +364,9 @@
       "keys": ""
     },
     "infoServerTPS": {
+      "keys": ""
+    },
+    "infoServux": {
       "keys": ""
     },
     "infoSlimeChunk": {
@@ -369,6 +401,12 @@
     },
     "infoWorldTimeFormatted": {
       "keys": ""
+    },
+    "infoWeather": {
+      "keys": ""
+    },
+    "infoZombieConversion": {
+      "keys": ""
     }
   },
   "RendererToggles": {
@@ -385,13 +423,13 @@
     "overlaySpawnChunkReal": false,
     "overlaySpawnChunkPlayer": false,
     "overlayStructureMainToggle": false,
+    "overlayVillagerInfo": false,
     "shapeRenderer": false,
     "debugChunkBorder": false,
     "debugChunkInfo": false,
     "debugChunkOcclusion": false,
     "debugCollisionBoxEnabled": false,
     "debugNeighborsUpdateEnabled": false,
-    "debugPathfindingEnabled": false,
     "debugSolidFaceEnabled": false,
     "debugWaterEnabled": false
   },
@@ -435,6 +473,9 @@
     "overlayStructureMainToggle": {
       "keys": "F4"
     },
+    "overlayVillagerInfo": {
+      "keys": ""
+    },
     "shapeRenderer": {
       "keys": ""
     },
@@ -453,9 +494,6 @@
     "debugNeighborsUpdateEnabled": {
       "keys": ""
     },
-    "debugPathfindingEnabled": {
-      "keys": ""
-    },
     "debugSolidFaceEnabled": {
       "keys": ""
     },
@@ -464,6 +502,8 @@
     }
   },
   "StructureColors": {
+    "Ancient City Main": "#41D10AE6",
+    "Ancient City Components": "#41D506C9",
     "Bastion Remnant Main": "#302171F5",
     "Bastion Remnant Components": "#302171F5",
     "Buried Treasure Main": "#302298E6",
@@ -496,14 +536,21 @@
     "Shipwreck Components": "#30EB1995",
     "Stronghold Main": "#30009999",
     "Stronghold Components": "#30009999",
+    "Trial Chambers Main": "#3599664E",
+    "Trial Chambers Components": "#35CC8868",
     "Village Main": "#3054CB4E",
     "Village Components": "#3054CB4E",
     "Witch Hut Main": "#30BE1DFC",
     "Witch Hut Components": "#300099FF",
+    "Trail Ruins Main": "#307F5AFF",
+    "Trail Ruins Components": "#307F5AFF",
     "Unknown Main": "#50FFFFFF",
     "Unknown Components": "#50FFFFFF"
   },
   "StructureHotkeys": {
+    "Toggle Ancient City": {
+      "keys": ""
+    },
     "Toggle Bastion Remnant": {
       "keys": ""
     },
@@ -552,10 +599,16 @@
     "Toggle Stronghold": {
       "keys": ""
     },
+    "Toggle Trial Chambers": {
+      "keys": ""
+    },
     "Toggle Village": {
       "keys": ""
     },
     "Toggle Witch Hut": {
+      "keys": ""
+    },
+    "Toggle Trail Ruins": {
       "keys": ""
     },
     "Toggle Unknown": {
@@ -563,6 +616,7 @@
     }
   },
   "StructureToggles": {
+    "Ancient City": false,
     "Bastion Remnant": true,
     "Buried Treasure": true,
     "Desert Pyramid": true,
@@ -579,8 +633,10 @@
     "Ruined Portal": true,
     "Shipwreck": true,
     "Stronghold": true,
+    "Trial Chambers": false,
     "Village": true,
     "Witch Hut": true,
+    "Trail Ruins": false,
     "Unknown": true
   },
   "config_version": 1
