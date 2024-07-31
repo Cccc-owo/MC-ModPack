@@ -1,13 +1,13 @@
 name = "It Follows!"
-filename = "itfollows-1.1.1-fabric.1.20.jar"
+filename = "itfollows-1.1.1-fabric.1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/pLCpicf0/versions/3Ri654pi/itfollows-1.1.1-fabric.1.20.jar"
+url = "https://cdn.modrinth.com/data/pLCpicf0/versions/M39zguWH/itfollows-1.1.1-fabric.1.21.jar"
 hash-format = "sha1"
-hash = "7d204c577fb80450089c39925c766857b04051b0"
+hash = "ef8624fe0f0a0bcfef7cce5b50ccc91a92232226"
 
 [update]
 [update.modrinth]
 mod-id = "pLCpicf0"
-version = "3Ri654pi"
+version = "M39zguWH"

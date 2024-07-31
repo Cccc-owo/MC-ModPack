@@ -1,13 +1,13 @@
 name = "Map In Slot"
-filename = "map-in-slot-3.0.0.jar"
+filename = "map-in-slot-3.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EpKz6cxj/versions/u9rQ5EKn/map-in-slot-3.0.0.jar"
+url = "https://cdn.modrinth.com/data/EpKz6cxj/versions/FvKr0ifh/map-in-slot-3.1.2.jar"
 hash-format = "sha1"
-hash = "8db70b544aabd5e1ab2ef519196e3b3225e49827"
+hash = "c0b479e337c1f3d15a02611b5b0661cfc04e505a"
 
 [update]
 [update.modrinth]
 mod-id = "EpKz6cxj"
-version = "u9rQ5EKn"
+version = "FvKr0ifh"

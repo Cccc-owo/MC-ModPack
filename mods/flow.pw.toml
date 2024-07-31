@@ -1,13 +1,13 @@
 name = "Flow"
-filename = "flow-2.0.1+1.20.4.jar"
+filename = "flow-2.0.1+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Eoxi2LJd/versions/3f4uKyFk/flow-2.0.1%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/Eoxi2LJd/versions/noiLXOZ1/flow-2.0.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "18a949e6230e94e67016c1b2226d723c305f5875"
+hash = "dd1d09b0b7879cc386117d05a9068252e5a0cf9a"
 
 [update]
 [update.modrinth]
 mod-id = "Eoxi2LJd"
-version = "3f4uKyFk"
+version = "noiLXOZ1"
