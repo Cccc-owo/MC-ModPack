@@ -22,15 +22,15 @@ hash = "e9de74cd783ac8b97b08c44216531fab1462b51573484029c468d29056e8b3c1"
 
 [[files]]
 file = "config/malilib.json"
-hash = "c7486c0c1e198b7227066f1926389117aab9d4705aca3911ed3aceb450669e4b"
+hash = "2cfc7db930781229d510c028bf3aec705df05fc5a56e0d443868030b380c937f"
 
 [[files]]
 file = "config/minihud.json"
-hash = "7d22af050719b05e9d2bec72143376fd0ce172cd26c886b247228185d0a4b623"
+hash = "60fc315843ceee72abf727e1de8d2c8c594eebf771110bbf21d2fd2d86d48470"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "135be26db14375d871a2d8d5e6d2a4ebb22ff2c68ef3c3a732365624a4baba9a"
+hash = "f5d704028e2a501c27add62d173fd722ae5aab76b0081911bdb6ec82199bb340"
 
 [[files]]
 file = "mods/allow-portal-guis.pw.toml"
@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "24fab9ae6262d24999a3d24b6fc0b25bf2415bb5b5b24c52ef103fe5dbd168d9"
+hash = "cc9aacfe76cf486a7d30bcd5e53024022246944c567a9fc885ce7e01c6cae3d7"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
@@ -685,10 +685,6 @@ metafile = true
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "585963a78adbd28f86e62de2151abc442b9a003450cd7959068c1482008feee6"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "25626692e5e792610f4cc98d2d2369222dc036e2e8a2bd4adca07ef34c71d36f"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
