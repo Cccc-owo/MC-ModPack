@@ -10,6 +10,7 @@ DEL /F /S /Q carpet.pw.toml
 DEL /F /S /Q cit-resewn.pw.toml
 DEL /F /S /Q effect-tooltips.pw.toml
 DEL /F /S /Q fastquit.pw.toml
+DEL /F /S /Q lazydfu.pw.toml
 DEL /F /S /Q level-text-fix.pw.toml
 DEL /F /S /Q litemoretica.pw.toml
 DEL /F /S /Q max-health-fix.pw.toml

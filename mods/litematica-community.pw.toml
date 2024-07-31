@@ -1,0 +1,13 @@
+name = "Litematica - Community Updated"
+filename = "litematica-fabric-1.21-0.18.999-sakura.26.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04545dcb2007ce27a0e36a897bd16b8cfb98549b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5559275
+project-id = 1068908

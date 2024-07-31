@@ -308,6 +308,11 @@ hash = "244f7de4ee85c392e52509d9df7e59c3a233cb722d049c87a11fc4fbf9997221"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller-community-updated.pw.toml"
+hash = "e3ecf2f12e2874e839afe019f99723c9e5e784adf7a8c4e76820f0d62239d41f"
+metafile = true
+
+[[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "55a6e99e45313cb3d8bea34f1d7699bb2f4cbc71ad94ef193af0e98254bc67b0"
 metafile = true
@@ -343,6 +348,11 @@ hash = "aba643da33f146b46820ad14d0e7b3a61c3e7becba2ada9032218e2f0ca655d1"
 metafile = true
 
 [[files]]
+file = "mods/litematica-community.pw.toml"
+hash = "d365426e24f1edd52306b63632b2a9379a147e784fd407e1683d9d6f8beb7f7c"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "258432c5c7b93cac4328d3bfd34d5ff8d4ce55212fd5adb0fc1b0efbc99d8c70"
 metafile = true
@@ -360,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/locationcopy.pw.toml"
 hash = "16e6f35d5a72d3dd240cb2bc9a0d84911e8af94d4749061c07e2d7ba1a42adc3"
+metafile = true
+
+[[files]]
+file = "mods/malilib-community.pw.toml"
+hash = "b89d49f8713f2e6c04c553e21d5eeb01b22ef20d68eb7f02f7df1c96c29d4a26"
 metafile = true
 
 [[files]]
@@ -385,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/minihud-community.pw.toml"
+hash = "a16a8cc1f908c6392bc33b61c5010058731dbf28f05acc06c3d3431951c0ad99"
 metafile = true
 
 [[files]]
@@ -565,6 +585,11 @@ metafile = true
 [[files]]
 file = "mods/tweakermore.pw.toml"
 hash = "1eb61e8a078bb435f206bcc74da95d3eb8ce80e7cb04ccf673ce27a75e110472"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo-community.pw.toml"
+hash = "3e2cc470477ffcd15a562bb01922ebc9d973d85a8cff19a7fb885fec52cc6b87"
 metafile = true
 
 [[files]]
