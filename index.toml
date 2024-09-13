@@ -508,6 +508,11 @@ hash = "b4344f6b63b8a3c5740b67e428f89988c50dc22a5476fa9a97bcdb2354e7d7ad"
 metafile = true
 
 [[files]]
+file = "mods/quick-menu.pw.toml"
+hash = "e994260ccd0c1c9c47af863b8998877fb856a34196e74f9f8661b241d7eaf24b"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "a39d62fa0ae0067676767e1dd45c2cd46d85ee0d6b1784778a0eb0d9ad4ca3c0"
 metafile = true
