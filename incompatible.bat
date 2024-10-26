@@ -8,7 +8,6 @@ DEL /F /S /Q boathud.pw.toml
 DEL /F /S /Q carpet-fixes.pw.toml
 DEL /F /S /Q effect-tooltips.pw.toml
 DEL /F /S /Q lazydfu.pw.toml
-DEL /F /S /Q level-text-fix.pw.toml
 DEL /F /S /Q litemoretica.pw.toml
 DEL /F /S /Q max-health-fix.pw.toml
 DEL /F /S /Q memoryleakfix.pw.toml

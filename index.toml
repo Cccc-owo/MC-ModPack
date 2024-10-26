@@ -197,6 +197,11 @@ hash = "6b0efa6d411faf50dedc9326b9991eea204455e5f39c35a41b8dd3a7513f543c"
 metafile = true
 
 [[files]]
+file = "mods/enchlevel-langpatch.pw.toml"
+hash = "c25fcace871f544377f3651e7a5605324fccc5224f37efcbce80d6b067cd9033"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "2ed06ddfb2e433024c5419af4dcb002dd854691b68565e4f0f1f1c96fc3fcdf6"
 metafile = true
@@ -344,11 +349,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
-metafile = true
-
-[[files]]
-file = "mods/level-text-fix.pw.toml"
-hash = "79d327a2ac532d0b4d0fc652e643d32fc78b82c4c98d3be208fb931a77a0b268"
 metafile = true
 
 [[files]]
