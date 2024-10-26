@@ -1,13 +1,13 @@
 name = "Subtly Glowing Ores"
-filename = "Subtly+Glowing+Ores+1.20.4.zip"
+filename = "Subtly Glowing Ores 1.21.1 vanilla.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/qfYE1L5z/versions/fy6WwsUn/Subtly%2BGlowing%2BOres%2B1.20.4.zip"
+url = "https://cdn.modrinth.com/data/qfYE1L5z/versions/PcaklMq2/Subtly%20Glowing%20Ores%201.21.1%20vanilla.zip"
 hash-format = "sha1"
-hash = "3763afc915fcad75c16e9cd0bcfb3df36ad98399"
+hash = "2f11f6e73704913fe77c1090e2dd633dd00edd09"
 
 [update]
 [update.modrinth]
 mod-id = "qfYE1L5z"
-version = "fy6WwsUn"
+version = "PcaklMq2"
