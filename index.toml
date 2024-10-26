@@ -29,6 +29,10 @@ file = "config/minihud.json"
 hash = "60fc315843ceee72abf727e1de8d2c8c594eebf771110bbf21d2fd2d86d48470"
 
 [[files]]
+file = "config/paperdoll.json"
+hash = "2f4c93cc09a1b194e78413326656e9a4c612daa3032ef2938d236a7d63265813"
+
+[[files]]
 file = "config/tweakeroo.json"
 hash = "f5d704028e2a501c27add62d173fd722ae5aab76b0081911bdb6ec82199bb340"
 
@@ -328,6 +332,11 @@ hash = "a6619aede80ea44ae5cc7fa36eeb0eeb08adbf9229e71a85f845921780d69153"
 metafile = true
 
 [[files]]
+file = "mods/kinecraft-serialization.pw.toml"
+hash = "b771187c913a19d99a21dad064b3ba1bce63cce32466d4a70adc2596c25ece89"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "fd77358f512f332ee2113e5fd9d8929ff9fc5952c78f3693c98e27b0de77fef9"
 metafile = true
@@ -418,6 +427,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mod-sets.pw.toml"
+hash = "eaf6d5ed9b92da6ff9d3e1243625c9dadc094872f2d9a46469597429a7fcf77a"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "edebf3f514e6ae422c890a47f30340d21fbf51b4362f5d902047bd4263d9a9ee"
 metafile = true
@@ -465,6 +479,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
+metafile = true
+
+[[files]]
+file = "mods/nopeeking.pw.toml"
+hash = "66b493f9984adf7aa7ea760c3e11e24d4323c6c3cfa36767c7fd91ee33e962c5"
 metafile = true
 
 [[files]]
