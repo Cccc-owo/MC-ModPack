@@ -21,7 +21,8 @@ DEL /F /S /Q max-health-fix.pw.toml
 DEL /F /S /Q memoryleakfix.pw.toml
 DEL /F /S /Q moremcmeta.pw.toml
 DEL /F /S /Q nbtedit-reborn.pw.toml
-DEL /F /S /Q obsidianui.pw.toml
+DEL /F /S /Q nvidium.pw.toml
+::DEL /F /S /Q obsidianui.pw.toml
 DEL /F /S /Q quick-menu.pw.toml
 DEL /F /S /Q server-country-flags.pw.toml
 DEL /F /S /Q show-me-your-skin.pw.toml
