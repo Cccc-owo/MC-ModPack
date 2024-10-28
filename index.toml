@@ -681,6 +681,16 @@ hash = "9ca45dcd81a09a41d31f66e34c000c95d169b43c750586ffb48bc27e9fd7e828"
 metafile = true
 
 [[files]]
+file = "resourcepacks/xekrsquarepattern.pw.toml"
+hash = "17c2c52e9fffe5f0a4a65fc43aabb0bd23521751590b7c6768082b6a607ce1e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xk-redstone-display.pw.toml"
+hash = "cfc743349d114377a745c9a8cd7767c957077a8f94c826b63727e416f963def4"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "fe23980d96cf347e5c51b2c9b6e190a7a349135f54ba3de7a56632c24d63bd46"
 metafile = true
