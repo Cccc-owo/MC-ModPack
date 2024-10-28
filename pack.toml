@@ -1,12 +1,12 @@
 name = "MoreThanOptimize"
 author = "Cccc_"
-version = "3.6.1"
+version = "3.6.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e6e984fde3d3ea1aa11d97b5fbac9851f86e1d818c2fc8f5bdd1a7542ef7b3e8"
+hash = "f3e91f8cf7466795d5f5868cfc49e5b223acab89c3f2856eb03d264d05381125"
 
 [versions]
 fabric = "0.16.8"

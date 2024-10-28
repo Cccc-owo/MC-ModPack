@@ -402,11 +402,6 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
-file = "mods/mod-sets.pw.toml"
-hash = "0d22085ef368216fc6c6f2e44cbf8912be34599be08ee7a01b39638b6b5f1227"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "edebf3f514e6ae422c890a47f30340d21fbf51b4362f5d902047bd4263d9a9ee"
 metafile = true
