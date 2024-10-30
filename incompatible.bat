@@ -49,11 +49,8 @@ for %%f in (*.mrpack) do (
   if "!basename:~-9!"=="-UNTESTED" (
     echo.
   ) else (
-    :: 截断 COMMIT_ID 为前七位
-    set "short_commit_id=!COMMIT_ID:~0,7!"
-    
     :: 构造新的文件名
-    set "newname=!basename!-!short_commit_id!.mrpack"
+    set "newname=!basename!-%COMMIT_ID%.mrpack"
     
     :: 重命名文件
     ren "%%f" "!newname!"

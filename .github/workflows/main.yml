@@ -27,8 +27,9 @@ jobs:
           echo "Setting TAG_NAME=$tag"
           echo "TAG_NAME=$tag" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
           $commitId = $env:GITHUB_SHA
-          echo "Setting COMMIT_ID=$commitId"
-          echo "COMMIT_ID=$commitId" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          $shortCommitId = $commitId.Substring(0, 7)
+          echo "Setting COMMIT_ID=$shortCommitId"
+          echo "COMMIT_ID=$shortCommitId" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
 
       - name: Export Modpack File
         shell: cmd
