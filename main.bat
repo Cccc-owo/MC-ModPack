@@ -52,7 +52,7 @@ call incompatible.bat
 ECHO.
 ECHO ####################################################
 ECHO #                                                  #
-ECHO #   Untested pack generated, ready for testing!    #
+ECHO #          Pack generated, ready for use!          #
 ECHO #                                                  #
 ECHO ####################################################
 ECHO.
