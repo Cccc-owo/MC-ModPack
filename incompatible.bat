@@ -1,5 +1,3 @@
-@ECHO OFF
-
 cd mods
 
 ::Below are the incompatible ( maybe ) mods. It should be listed by alphabet.
@@ -7,7 +5,6 @@ cd mods
 DEL /F /S /Q boathud.pw.toml
 DEL /F /S /Q bounced.pw.toml
 DEL /F /S /Q carpet-fixes.pw.toml
-DEL /F /S /Q cubes-without-borders.pw.toml
 DEL /F /S /Q eating-animation.pw.toml
 DEL /F /S /Q effect-tooltips.pw.toml
 DEL /F /S /Q fabrishot.pw.toml
@@ -40,3 +37,18 @@ packwiz refresh
 
 ::Generate tested pack
 packwiz.exe modrinth export
+
+setlocal enabledelayedexpansion
+for %%f in (*.mrpack) do (
+  set "filename=%%f"
+  
+  :: 提取文件的基本名称（不包括扩展名）
+  for /f "delims=" %%i in ('echo %%~nf') do set "basename=%%i"
+  
+  :: 构造新的文件名
+  set "newname=!basename!-!COMMIT_ID!.mrpack"
+  
+  :: 重命名文件
+  ren "%%f" "!newname!"
+)
+endlocal
