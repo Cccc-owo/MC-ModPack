@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/chunksfadein.properties"
-hash = "4c8f18d8f017bebd42a25adc1ab3fe46c13eee010a0ebb02ad93e60130e59be8"
-
-[[files]]
 file = "config/emi.css"
 hash = "3195827fa0516ed3d39a844e5640140a18d9969f5b2ce6d311ee65daed86ee73"
 
@@ -15,10 +11,6 @@ hash = "b022777108a5bfd4cfe56cafaa2289662c3849326aac7bc7ce074356269636f5"
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "9455c9d63ba67fd65b7bce3e2d84a3aa06c30bfb7bed3f2b67b1175ed73b5db9"
-
-[[files]]
-file = "config/languagereload.json"
-hash = "e9de74cd783ac8b97b08c44216531fab1462b51573484029c468d29056e8b3c1"
 
 [[files]]
 file = "config/malilib.json"
@@ -640,10 +632,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "2ae5b0fa11f7c2ea80631e7dd0ca15c4f94349415671cd403cfc8a59fcda1bdd"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "cc9aacfe76cf486a7d30bcd5e53024022246944c567a9fc885ce7e01c6cae3d7"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
