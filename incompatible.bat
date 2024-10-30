@@ -47,7 +47,7 @@ for %%f in (*.mrpack) do (
   
   :: 检查文件基本名是否以 -UNTESTED 结尾
   if "!basename:~-9!"=="-UNTESTED" (
-    echo .
+    echo.
   ) else (
     :: 截断 COMMIT_ID 为前七位
     set "short_commit_id=!COMMIT_ID:~0,7!"
