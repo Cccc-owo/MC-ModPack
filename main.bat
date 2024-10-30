@@ -19,8 +19,11 @@ for %%f in (*.mrpack) do (
   :: 提取文件的基本名称（不包括扩展名）
   for /f "delims=" %%i in ('echo %%~nf') do set "basename=%%i"
   
+  :: 截断 COMMIT_ID 为前七位
+  set "short_commit_id=!COMMIT_ID:~0,7!"
+  
   :: 构造新的文件名
-  set "newname=!basename!-!COMMIT_ID!-UNTESTED.mrpack"
+  set "newname=!basename!-!short_commit_id!-UNTESTED.mrpack"
   
   :: 重命名文件
   ren "%%f" "!newname!"
