@@ -46,12 +46,14 @@ for %%f in (*.mrpack) do (
   for /f "delims=" %%i in ('echo %%~nf') do set "basename=%%i"
   
   :: 检查文件基本名是否以 -UNTESTED 结尾
-  if /i "!basename:~-9!"=="-UNTESTED" (
+  if "!basename:~-9!"=="-UNTESTED" (
+    echo .
+  ) else (
     :: 截断 COMMIT_ID 为前七位
     set "short_commit_id=!COMMIT_ID:~0,7!"
     
     :: 构造新的文件名
-    set "newname=!basename:~0,-9!-!short_commit_id!-UNTESTED.mrpack"
+    set "newname=!basename!-!short_commit_id!.mrpack"
     
     :: 重命名文件
     ren "%%f" "!newname!"
