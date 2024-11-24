@@ -1,13 +1,13 @@
 name = "MiniHUD"
-filename = "minihud-fabric-1.21.1-0.32.50.jar"
+filename = "minihud-fabric-1.21-0.32.52.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UMxybHE8/versions/iChigeli/minihud-fabric-1.21.1-0.32.50.jar"
-hash-format = "sha1"
-hash = "2890dd0517530f3b92ad23d57f162fa3c1ecda7e"
+url = "https://cdn.modrinth.com/data/UMxybHE8/versions/OnAWV2Lz/minihud-fabric-1.21-0.32.52.jar"
+hash-format = "sha512"
+hash = "c931174cf20799f230f091ebc5edb1ec17df3fe0c7cfb335f5e6de1436637792e62b60be2642c4a3cbea49c5932eb62061d8cddfb843c8ce32cfabde174829cf"
 
 [update]
 [update.modrinth]
 mod-id = "UMxybHE8"
-version = "iChigeli"
+version = "OnAWV2Lz"
