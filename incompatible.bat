@@ -17,8 +17,8 @@ DEL /F /S /Q lazydfu.pw.toml
 DEL /F /S /Q litemoretica.pw.toml
 DEL /F /S /Q max-health-fix.pw.toml
 DEL /F /S /Q memoryleakfix.pw.toml
-DEL /F /S /Q moremcmeta.pw.toml
-DEL /F /S /Q nbtedit-reborn.pw.toml
+::DEL /F /S /Q moremcmeta.pw.toml
+::DEL /F /S /Q nbtedit-reborn.pw.toml
 DEL /F /S /Q nvidium.pw.toml
 ::DEL /F /S /Q obsidianui.pw.toml
 DEL /F /S /Q quick-menu.pw.toml
@@ -26,7 +26,7 @@ DEL /F /S /Q server-country-flags.pw.toml
 DEL /F /S /Q show-me-your-skin.pw.toml
 DEL /F /S /Q suggestion-tweaker.pw.toml
 DEL /F /S /Q third-person-maps.pw.toml
-DEL /F /S /Q tweakermore.pw.toml
+::DEL /F /S /Q tweakermore.pw.toml
 DEL /F /S /Q worldborderfix.pw.toml
 DEL /F /S /Q world-preview.pw.toml
 
