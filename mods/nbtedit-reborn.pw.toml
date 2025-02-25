@@ -3,11 +3,11 @@ filename = "nbtedit-fabric-5.2.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vr2eDeCw/versions/WbrqalEL/nbtedit-fabric-5.2.11.jar"
+url = "https://cdn.modrinth.com/data/Vr2eDeCw/versions/cqL6Xdm5/nbtedit-fabric-5.2.11.jar"
 hash-format = "sha512"
-hash = "a6fe13e656a4bbf2c3249d110c6f5756f1af234a343bef2c0096fb3c43b71e7ad13e63400e3afa22900cd59daa968a46238c03d1100ee4523aa9cd25dbdbf505"
+hash = "62a525f8efff9dc1b680889012d811b90776a7c10c7dd1f9d4544005eb8be253f6a735908e6d638655f2d8e26ba83dc475ab5bf8d4d1ee2e35ed0860a055f3b7"
 
 [update]
 [update.modrinth]
 mod-id = "Vr2eDeCw"
-version = "WbrqalEL"
+version = "cqL6Xdm5"
