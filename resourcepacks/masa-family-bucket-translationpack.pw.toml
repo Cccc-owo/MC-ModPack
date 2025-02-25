@@ -3,11 +3,11 @@ filename = "masa-mods-chinese.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IEt3hTCe/versions/iYDIxhmz/masa-mods-chinese.zip"
+url = "https://cdn.modrinth.com/data/IEt3hTCe/versions/mFBJdNdf/masa-mods-chinese.zip"
 hash-format = "sha512"
-hash = "dbea8e05ebc90061a9e6b10bbe4163a278658655a534e4a4872279ead9cd250cb9d4902eb058d18aaf7f160e43cbdc8c703e0f21d76d4f7697fafc446ed335c2"
+hash = "4bb363946a698a20b7f3911dd1b3086c38f7c7d08892ed15def97569c9d82e70b0711274a9d15b1d5ef0c68bd2e869e89a7979e39f21325f7b6b0cb1f2548ac1"
 
 [update]
 [update.modrinth]
 mod-id = "IEt3hTCe"
-version = "iYDIxhmz"
+version = "mFBJdNdf"

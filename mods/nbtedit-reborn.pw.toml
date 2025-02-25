@@ -1,13 +1,13 @@
 name = "In-Game NBTEdit Reborn"
-filename = "nbtedit-fabric-5.2.8.jar"
+filename = "nbtedit-fabric-5.2.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vr2eDeCw/versions/SNCSZrsT/nbtedit-fabric-5.2.8.jar"
-hash-format = "sha1"
-hash = "1143870099afdd7bd0500294dde2f36c549eb0e0"
+url = "https://cdn.modrinth.com/data/Vr2eDeCw/versions/WbrqalEL/nbtedit-fabric-5.2.11.jar"
+hash-format = "sha512"
+hash = "a6fe13e656a4bbf2c3249d110c6f5756f1af234a343bef2c0096fb3c43b71e7ad13e63400e3afa22900cd59daa968a46238c03d1100ee4523aa9cd25dbdbf505"
 
 [update]
 [update.modrinth]
 mod-id = "Vr2eDeCw"
-version = "SNCSZrsT"
+version = "WbrqalEL"
