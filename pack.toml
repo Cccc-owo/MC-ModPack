@@ -1,6 +1,6 @@
 name = "MoreThanOptimize"
 author = "Cccc_"
-version = "v3.6.10"
+version = "v3.6.11"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "6739f50e8fd11c4b97db944a486b4e1b772695111b30cf4ae16e7f17ff0d2db6"
 
 [versions]
-fabric = "0.16.8"
+fabric = "0.16.10"
 minecraft = "1.21.1"
