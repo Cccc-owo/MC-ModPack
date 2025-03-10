@@ -1,13 +1,13 @@
 name = "Vanilla Plus Shader"
-filename = "VanillaPlus_v3.2.zip"
+filename = "VanillaPlus_v3.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EPsIYDj1/versions/4srzWowt/VanillaPlus_v3.2.zip"
-hash-format = "sha1"
-hash = "de65a77868359ae42fbb56442bbe027091622372"
+url = "https://cdn.modrinth.com/data/EPsIYDj1/versions/U3rhmRqW/VanillaPlus_v3.3.zip"
+hash-format = "sha512"
+hash = "b9ef99f06781fd0c0b867e4415bee2020dbc6ad4538c87f176c76e4b8528a1df56aaf22c0c30624f3c68a230970c83c70e1e04fdc733289f7acf1238abca66d9"
 
 [update]
 [update.modrinth]
 mod-id = "EPsIYDj1"
-version = "4srzWowt"
+version = "U3rhmRqW"
