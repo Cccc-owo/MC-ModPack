@@ -1,13 +1,13 @@
 name = "Nostalgia Shader"
-filename = "Nostalgia_v5.0.zip"
+filename = "Nostalgia_v5.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xEItlMn3/versions/h5HAal4u/Nostalgia_v5.0.zip"
-hash-format = "sha1"
-hash = "920fa5e58e670f421373efab4fc96908871b19b8"
+url = "https://cdn.modrinth.com/data/xEItlMn3/versions/fzxeGgx7/Nostalgia_v5.1.zip"
+hash-format = "sha512"
+hash = "9a15161da2e360bcc446bfeb5163a2b4e70e49b46545ccbdde05540a46d861a7a378c243769faeabca76019e75cb1e55b1b2c04f74b8aaa23b86d436ebbb034c"
 
 [update]
 [update.modrinth]
 mod-id = "xEItlMn3"
-version = "h5HAal4u"
+version = "fzxeGgx7"
