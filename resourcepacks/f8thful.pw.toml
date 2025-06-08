@@ -3,11 +3,11 @@ filename = "F8thful.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZrW0og1b/versions/V10RNY67/F8thful.zip"
-hash-format = "sha1"
-hash = "8a1545e5e75a4a4f37b60934e319288f91669f82"
+url = "https://cdn.modrinth.com/data/ZrW0og1b/versions/ZFUwiZrL/F8thful.zip"
+hash-format = "sha512"
+hash = "e8c0a87c3eb27eb21c28c106171e4fbf957b18e2d604c12e0d30e6cccb8f6c6ffd8dbc822f079405e74d2f5adc9cd546d8f77e9c1f1806bbf3806c4ca5fc4724"
 
 [update]
 [update.modrinth]
 mod-id = "ZrW0og1b"
-version = "V10RNY67"
+version = "ZFUwiZrL"
