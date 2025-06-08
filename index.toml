@@ -329,11 +329,6 @@ hash = "f27d2387b3236378fca54f60d940a7d543f4c479497735b4a16a334705981103"
 metafile = true
 
 [[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "5b2836651298cdc544306890ef5ed807f066bac2db4228e171edcd2c95e32f04"
 metafile = true
@@ -566,11 +561,6 @@ metafile = true
 [[files]]
 file = "mods/third-person-maps.pw.toml"
 hash = "79b087226c41dd71385ae3c63a30ac4811ee925cb7bfb52b3242c5a0010c74bd"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
