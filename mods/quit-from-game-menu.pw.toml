@@ -1,0 +1,13 @@
+name = "Quit from Game Menu"
+filename = "quit-from-game-menu-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V9wSe8O4/versions/u3OBGrKK/quit-from-game-menu-1.0.2.jar"
+hash-format = "sha512"
+hash = "0297aaf8e27b101da4e13ab9a64e91748a704a52235efa832f46ebbd506ba81819e7ed118b2982d88df9f6c0c76de0a6826b96a5f72cbbba19aeb943f5e918bf"
+
+[update]
+[update.modrinth]
+mod-id = "V9wSe8O4"
+version = "u3OBGrKK"

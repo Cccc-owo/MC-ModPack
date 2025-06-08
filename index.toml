@@ -264,6 +264,11 @@ hash = "e3d387cfc56c15f3e885934094e41915537af9a22b75f68aa17987ef30ae4a20"
 metafile = true
 
 [[files]]
+file = "mods/gyo.pw.toml"
+hash = "e90f1a1dc82bac7dc81092690bcb8acd4f0e5686a688cc9dc8aa074ac9458e96"
+metafile = true
+
+[[files]]
 file = "mods/headfix.pw.toml"
 hash = "f17cc191639e10564b60256c97e01d44537d4f95cbde3935093e5894d69f342c"
 metafile = true
@@ -321,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
+metafile = true
+
+[[files]]
+file = "mods/keybindbugfixes.pw.toml"
+hash = "755ccee2b82d8e83175daada2969ad2c2da5ae0e2f62153635885955fbde281b"
 metafile = true
 
 [[files]]
@@ -489,8 +499,18 @@ hash = "dbd855235acba3433bce72af61138ad37de733c81537bed6ce963eefbdb9755d"
 metafile = true
 
 [[files]]
+file = "mods/provis-health-bars.pw.toml"
+hash = "4df9a9223a40cea80637d7736d6f1cd40df162b2c5de6ac8de15530f18613be5"
+metafile = true
+
+[[files]]
 file = "mods/quick-menu.pw.toml"
 hash = "7ffe6c2bb00e9da4a9f665930d8ef7a23336bbbb7d5c55ee1286c4a9ada19d33"
+metafile = true
+
+[[files]]
+file = "mods/quit-from-game-menu.pw.toml"
+hash = "71cd893bf700d83e1c6789940326c9e9e2599187e398881d73cb12341d18c8de"
 metafile = true
 
 [[files]]
@@ -541,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/smoke-suppression.pw.toml"
 hash = "62f92cf3f1ff3c13ff363891949160ba5bdfe77978c230074310d0d4dfb67b69"
+metafile = true
+
+[[files]]
+file = "mods/smooth-skies.pw.toml"
+hash = "0ab04035331d3b9c6fe3ea0b88c93eec08cb7892cfcaa0cb5fb2a6e1b0ea1cc6"
 metafile = true
 
 [[files]]
