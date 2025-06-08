@@ -264,11 +264,6 @@ hash = "e3d387cfc56c15f3e885934094e41915537af9a22b75f68aa17987ef30ae4a20"
 metafile = true
 
 [[files]]
-file = "mods/gyo.pw.toml"
-hash = "e90f1a1dc82bac7dc81092690bcb8acd4f0e5686a688cc9dc8aa074ac9458e96"
-metafile = true
-
-[[files]]
 file = "mods/headfix.pw.toml"
 hash = "f17cc191639e10564b60256c97e01d44537d4f95cbde3935093e5894d69f342c"
 metafile = true
@@ -326,11 +321,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
-metafile = true
-
-[[files]]
-file = "mods/keybindbugfixes.pw.toml"
-hash = "755ccee2b82d8e83175daada2969ad2c2da5ae0e2f62153635885955fbde281b"
 metafile = true
 
 [[files]]
