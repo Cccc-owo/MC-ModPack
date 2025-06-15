@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "dbd855235acba3433bce72af61138ad37de733c81537bed6ce963eefbdb9755d"
+hash = "18124e5924bef68f0f391d5c8c7da7d21fb336c1b2c2db7c2e564e5323915b49"
 metafile = true
 
 [[files]]
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-skies.pw.toml"
-hash = "0ab04035331d3b9c6fe3ea0b88c93eec08cb7892cfcaa0cb5fb2a6e1b0ea1cc6"
+hash = "0ea76903fbb0b3f4d57f7a2c3317fcb7516495f93795b26b611ea1c261276df7"
 metafile = true
 
 [[files]]
