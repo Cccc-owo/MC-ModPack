@@ -10,13 +10,10 @@ DEL /F /S /Q eating-animation.pw.toml
 DEL /F /S /Q effect-tooltips.pw.toml
 DEL /F /S /Q emi.pw.toml
 DEL /F /S /Q hold-that-chunk.pw.toml
-DEL /F /S /Q fabricskyboxes-interop.pw.toml
-DEL /F /S /Q fabricskyboxes.pw.toml
 DEL /F /S /Q fabrishot.pw.toml
 DEL /F /S /Q faded-widgets.pw.toml
 DEL /F /S /Q flash.pw.toml
 DEL /F /S /Q flow.pw.toml
-DEL /F /S /Q indium.pw.toml
 DEL /F /S /Q it-follows!.pw.toml
 DEL /F /S /Q itemphysic-lite.pw.toml
 DEL /F /S /Q litemoretica.pw.toml
