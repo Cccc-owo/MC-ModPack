@@ -49,16 +49,6 @@ hash = "385f6606afc7086a39eaceec2df95e0c2c5d7aa3a3b31cb67e2a337eb10a4167"
 metafile = true
 
 [[files]]
-file = "mods/boathud.pw.toml"
-hash = "e91415314d9b792e13fce968c76d8fe32fdbb8fa25dc7fd6cfb31ab77b600792"
-metafile = true
-
-[[files]]
-file = "mods/bounced.pw.toml"
-hash = "3aa2ba82183e123f463b8b7e44eae68cc08539227f8e948feab20fe7c3eb59bb"
-metafile = true
-
-[[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "25d04408a04c3d2b0b8800bfe78247fc8cda07bd6e3100210efb01b2fffb822e"
 metafile = true
@@ -164,23 +154,18 @@ hash = "ca79d98d7ae0bfe24a873b935922c255d1d6c16bc73228065c64e9ddc86310da"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "fa95922f74fbf9f5841897ca6cd0d638a24a24456d7560534e9d74dd036ecd5e"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "5f171d3492d66f0d7eea4c6b31b1a29f1ace7b6fe5cad84ca37ba076a3035b40"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation.pw.toml"
-hash = "9099b858e94f6f81db890c7d46f85601dee71ba33fb7ae19773b8da2ce8c3834"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
-metafile = true
-
-[[files]]
-file = "mods/effect-tooltips.pw.toml"
-hash = "440155f692a17f43d5a01c0e0b1e4591e3af9c4b5d33ec4d03110bdd2770a655"
 metafile = true
 
 [[files]]
@@ -234,11 +219,6 @@ hash = "874bbf96623cac0bc3f7bedd16e2db5e3cce2d61d20f078ab1c8a0f77b980d69"
 metafile = true
 
 [[files]]
-file = "mods/faded-widgets.pw.toml"
-hash = "4db145426869e5bf0c1e8205ee67ea2d411520d8f7f3b4837249c54ca9297ab7"
-metafile = true
-
-[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "937e9c66908ede3a91ffce2196385789575527324973b75ab10a35f4e4524651"
 metafile = true
@@ -254,16 +234,6 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
-file = "mods/flash.pw.toml"
-hash = "8a01cb725d60d62bd1e3b041f4a481d383c7780bcf8c962de858492f9b75f1c9"
-metafile = true
-
-[[files]]
-file = "mods/flow.pw.toml"
-hash = "e3d387cfc56c15f3e885934094e41915537af9a22b75f68aa17987ef30ae4a20"
-metafile = true
-
-[[files]]
 file = "mods/headfix.pw.toml"
 hash = "f17cc191639e10564b60256c97e01d44537d4f95cbde3935093e5894d69f342c"
 metafile = true
@@ -271,11 +241,6 @@ metafile = true
 [[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "25d8b382e17472cec7236a07182c693e4d01525af7cb668944582a85abfac8a1"
-metafile = true
-
-[[files]]
-file = "mods/hold-that-chunk.pw.toml"
-hash = "88d504ca7157466de1a296c456a95e20412bf14bec48e606499fe3319a9ddbab"
 metafile = true
 
 [[files]]
@@ -296,11 +261,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e03fc0b0c151c5c072ac399d27b5c4268a093c41be73f3b1578d050bb49211f3"
-metafile = true
-
-[[files]]
-file = "mods/it-follows!.pw.toml"
-hash = "244f7de4ee85c392e52509d9df7e59c3a233cb722d049c87a11fc4fbf9997221"
 metafile = true
 
 [[files]]
@@ -359,11 +319,6 @@ hash = "ed5be4f976061d07fe48051c629fb0594d91344a6d95f8cc74b3a1d146d30d35"
 metafile = true
 
 [[files]]
-file = "mods/max-health-fix.pw.toml"
-hash = "23612cdf2a5bb73b93f96c6280ea9213bcc193a9235c15d7a6da876b6604f8b7"
-metafile = true
-
-[[files]]
 file = "mods/mcwifipnp.pw.toml"
 hash = "2d190ecae317bfacd675f9e7fee24c55c407dafba9fd7ffbaaa3bf9e9f51190c"
 metafile = true
@@ -416,11 +371,6 @@ metafile = true
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "50f3d5a0d030c7b01174d0f0ce8642927d445350976b5363826110ac002fe9b1"
-metafile = true
-
-[[files]]
-file = "mods/nbtedit-reborn.pw.toml"
-hash = "07a77cf2c66597497be1f089eeb610dd600c7e3224c9e17e88e76ac79acdcc94"
 metafile = true
 
 [[files]]
@@ -489,11 +439,6 @@ hash = "4df9a9223a40cea80637d7736d6f1cd40df162b2c5de6ac8de15530f18613be5"
 metafile = true
 
 [[files]]
-file = "mods/quick-menu.pw.toml"
-hash = "7ffe6c2bb00e9da4a9f665930d8ef7a23336bbbb7d5c55ee1286c4a9ada19d33"
-metafile = true
-
-[[files]]
 file = "mods/quit-from-game-menu.pw.toml"
 hash = "71cd893bf700d83e1c6789940326c9e9e2599187e398881d73cb12341d18c8de"
 metafile = true
@@ -504,13 +449,13 @@ hash = "489b02c124486db11ef67bb2f928a4041d9e3c77daf903d1ecbd886f9a037130"
 metafile = true
 
 [[files]]
-file = "mods/resourcify.pw.toml"
-hash = "522da8a16ca87bfa21414bfa6f330bda82f081edff21e33d2914c22a3b886b64"
+file = "mods/rei.pw.toml"
+hash = "d663ed7529a79f9b5f9f9d7b3be61c0999b22daca0dc10482f51922b38409c66"
 metafile = true
 
 [[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
+file = "mods/resourcify.pw.toml"
+hash = "522da8a16ca87bfa21414bfa6f330bda82f081edff21e33d2914c22a3b886b64"
 metafile = true
 
 [[files]]
@@ -519,18 +464,8 @@ hash = "7ead84f8df46c7e292fb00079d11aa78d15724398b150db11d06e6713583fcb0"
 metafile = true
 
 [[files]]
-file = "mods/server-country-flags.pw.toml"
-hash = "81124074e74fff9ae7790582b4fd38e347785e1f608559fd97450f7684fa1017"
-metafile = true
-
-[[files]]
 file = "mods/serverpingerfixer.pw.toml"
 hash = "50855fdced2ad535c842825b761e62b339168b9ea158e452bdd4f6467a102645"
-metafile = true
-
-[[files]]
-file = "mods/show-me-your-skin.pw.toml"
-hash = "c5b1f9779e53ce7685e23534a6e35a7ad72a0daaa70083fd7f9ddc9df5a3fa35"
 metafile = true
 
 [[files]]
@@ -559,18 +494,8 @@ hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
-file = "mods/suggestion-tweaker.pw.toml"
-hash = "da7f1b8edc89a3cbd471f645f3d897c2e149db6b5446a4c0cb20bf0c8744fe79"
-metafile = true
-
-[[files]]
 file = "mods/symbol-chat.pw.toml"
 hash = "0c482689dc02e920dfe6c0bde6bbfe31520bb1376e66d93c2d7b24d4f431001a"
-metafile = true
-
-[[files]]
-file = "mods/third-person-maps.pw.toml"
-hash = "79b087226c41dd71385ae3c63a30ac4811ee925cb7bfb52b3242c5a0010c74bd"
 metafile = true
 
 [[files]]
@@ -616,11 +541,6 @@ metafile = true
 [[files]]
 file = "mods/world-preview.pw.toml"
 hash = "b1f1d630a64c3472a5bec1bd69ce764d93838a38350d3fa1b8b87be17a92b6fe"
-metafile = true
-
-[[files]]
-file = "mods/worldborderfix.pw.toml"
-hash = "e98d7796095a98e133dac4d9254aa392ea4ae7ec3aefe3a9a42e0f88ee82a20e"
 metafile = true
 
 [[files]]
