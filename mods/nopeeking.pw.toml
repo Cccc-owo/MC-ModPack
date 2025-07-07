@@ -1,13 +1,13 @@
 name = "No Peeking!"
-filename = "no-peeking-1.2.2.jar"
+filename = "no-peeking-1.2.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/LMoBD2pV/versions/v2pr3EvZ/no-peeking-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/LMoBD2pV/versions/N8NsBy42/no-peeking-1.2.3.jar"
 hash-format = "sha512"
-hash = "33416112b46cf2f6197d558babd962556b04d032251a59a8ae6f6803cc5412aa07bad4385c0f1e3868913ebfceceafe0e24b2dd6cbec6dedb216fb35725928e8"
+hash = "71d5e70e3f2fc21ff4ea9f3f934ff46ceb11c2517e1dc2094bd6eaa1f8ad587ee7b1720b0963e78af31db3a93c9f373d4d9924564bec2e7838dddf78ed691183"
 
 [update]
 [update.modrinth]
 mod-id = "LMoBD2pV"
-version = "v2pr3EvZ"
+version = "N8NsBy42"

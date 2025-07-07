@@ -1,13 +1,13 @@
 name = "IMBlocker"
-filename = "IMBlocker-5.2.2-fabric-1.17+.jar"
+filename = "IMBlocker-5.3.1-fabric-1.17+.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WMDesFsZ/versions/Tsl0om8h/IMBlocker-5.2.2-fabric-1.17%2B.jar"
+url = "https://cdn.modrinth.com/data/WMDesFsZ/versions/aTBkMMeX/IMBlocker-5.3.1-fabric-1.17%2B.jar"
 hash-format = "sha512"
-hash = "11616bce3a6c842aae1e0c5943d373f67b21b01788f00910433b4f047d96ad2055d2ecf307e09aab7c424e9c5588c6bf65e23e7c14983c5611943b36c951c531"
+hash = "3853d9b3ddb2be522b0d33260530fb6f093bd75a41d4a1a463caacdf4fe6be9ecfa62090a152d956a31a4840e329afc274f9e7b4673d2df07786e5b60e5cc687"
 
 [update]
 [update.modrinth]
 mod-id = "WMDesFsZ"
-version = "Tsl0om8h"
+version = "aTBkMMeX"
