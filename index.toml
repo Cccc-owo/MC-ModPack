@@ -245,12 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "c6150bce0f72222864fadfd65c6d8d707169c35d2683912432377b14d4038dcd"
+hash = "95bee2033108afc6aafe0ad25ebac8889df78f6fe244b812c973fb7834823e86"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
+hash = "eec54c8310038eaf8625ace2ab01e8ca6b1ce68b0e6a051835cf2faf324478c6"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "5b2836651298cdc544306890ef5ed807f066bac2db4228e171edcd2c95e32f04"
+hash = "e5fb5269de3633495c3964bb008fbd9b9f15e345e53f6ccee7e1a29fe730ba73"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0a2b42ff52cba3f205f4ffda2d6b45873768b020da5bc435020abbb5d0170d94"
+hash = "997319ec27027006611964aa856caead8111b607f98d8e95e3a9eee47d894ab6"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "09b7471660825ffecaa6fa5855c025b115fb7a525ee1524ca4f6f868d8d2d758"
+hash = "4168044fa7ac6b57f3c663c96cdbe5bc1058b20b569ca6faaa05fb2fe2f0188a"
 metafile = true
 
 [[files]]
