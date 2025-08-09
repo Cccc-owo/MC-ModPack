@@ -1,5 +1,7 @@
 cd mods
 
+::Note: temp disable rei
+
 ::Below are the incompatible ( maybe ) mods. It should be listed by alphabet.
 ::DEL /F /S /Q mod.pw.toml
 DEL /F /S /Q carpet-fixes.pw.toml
@@ -11,6 +13,7 @@ DEL /F /S /Q mixintrace.pw.toml
 ::DEL /F /S /Q moremcmeta.pw.toml
 DEL /F /S /Q nvidium.pw.toml
 ::DEL /F /S /Q obsidianui.pw.toml
+DEL /F /S /Q rei.pw.toml
 ::DEL /F /S /Q tweakermore.pw.toml
 DEL /F /S /Q world-preview.pw.toml
 

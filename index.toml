@@ -44,8 +44,18 @@ hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
 
 [[files]]
+file = "mods/better-mipmaps.pw.toml"
+hash = "41549494de771062f0f7b752d04177a73eb6e0970435d29779a0430ebe69bd24"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "385f6606afc7086a39eaceec2df95e0c2c5d7aa3a3b31cb67e2a337eb10a4167"
+metafile = true
+
+[[files]]
+file = "mods/boatview360.pw.toml"
+hash = "9520117e09a29d669a043bd7748df5eb2c0763ca33c5d4ab0d06915263bc6c18"
 metafile = true
 
 [[files]]
@@ -94,11 +104,6 @@ hash = "d7da904becf96e068b6929529a7821dd03b9e0017593ea407fb54c1671b9e13e"
 metafile = true
 
 [[files]]
-file = "mods/cicada.pw.toml"
-hash = "223769831d2135b5fed5ad5909da2324b671445c676f99265e19db898abde02e"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "9831c303787202296c85b548c9139a5f2c67471f22bad772a5da55b5859036e3"
 metafile = true
@@ -106,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/client-commands.pw.toml"
 hash = "00221a1bbad9b26dace7c7fb3146b774c5ba9b40bb186dd0e4e0a37e932fdbda"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "7214227e426d35bcf101e9514d28662648b702211ee249555c166aa3ce6fdccc"
 metafile = true
 
 [[files]]
@@ -134,6 +144,11 @@ hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
 metafile = true
 
 [[files]]
+file = "mods/custom-crosshair-mod.pw.toml"
+hash = "eb6d555198482fe65deffef231a950285711cda14304585bf95901304c6dcbeb"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "f605331d864b266407b9d4486a4355febbc80b5e2e6ef75e4d92d45d2b29bc8f"
 metafile = true
@@ -151,16 +166,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fullbright.pw.toml"
 hash = "ca79d98d7ae0bfe24a873b935922c255d1d6c16bc73228065c64e9ddc86310da"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "fa95922f74fbf9f5841897ca6cd0d638a24a24456d7560534e9d74dd036ecd5e"
-metafile = true
-
-[[files]]
-file = "mods/dynamiccrosshair.pw.toml"
-hash = "5f171d3492d66f0d7eea4c6b31b1a29f1ace7b6fe5cad84ca37ba076a3035b40"
 metafile = true
 
 [[files]]
@@ -254,11 +259,6 @@ hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "e726cb4e05234381e07fe371f118a4cff7a65c7898786136e50165effa42d6fa"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "e03fc0b0c151c5c072ac399d27b5c4268a093c41be73f3b1578d050bb49211f3"
 metafile = true
@@ -274,18 +274,23 @@ hash = "69e6266460c1dc59e6e1f6798ed2b56f8739b35c3ea2d4b32559bd10f274befa"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "afa0aff7d5d2e4692025723f25bee3ea4b05812042218f94696c7839fa5e07b7"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
-hash = "aeee628da27bde07e28866859d52ce5f45e45fb39fcc4e5cb48cfb9174b3cc69"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "06d953295265b2f415532373736703632cbddcfe916a8f6534ab3006f57a6c4f"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-hash = "5b2836651298cdc544306890ef5ed807f066bac2db4228e171edcd2c95e32f04"
+file = "mods/language-reload.pw.toml"
+hash = "aeee628da27bde07e28866859d52ce5f45e45fb39fcc4e5cb48cfb9174b3cc69"
 metafile = true
 
 [[files]]
@@ -494,8 +499,18 @@ hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "8ee85cf9163551e114d900f00a24849ea55d915b30143b778f8125baa792d6da"
+metafile = true
+
+[[files]]
 file = "mods/symbol-chat.pw.toml"
 hash = "0c482689dc02e920dfe6c0bde6bbfe31520bb1376e66d93c2d7b24d4f431001a"
+metafile = true
+
+[[files]]
+file = "mods/thirdpersondeath.pw.toml"
+hash = "937b3091c8f084bfac6e9dbc8bc9bd96435bc2dd37aa31110ed6fe9643afbdd9"
 metafile = true
 
 [[files]]
