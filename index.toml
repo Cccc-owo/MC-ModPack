@@ -284,6 +284,11 @@ hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbook.pw.toml"
+hash = "3e4f2f9c3add8b93b3a83f1b9814d69f28b45935b34f82c3134d52d644fc0c35"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "06d953295265b2f415532373736703632cbddcfe916a8f6534ab3006f57a6c4f"
 metafile = true
