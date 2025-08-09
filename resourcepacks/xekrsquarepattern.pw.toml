@@ -1,13 +1,13 @@
 name = "Squareful"
-filename = "Squareful 方纹v3.79 for MC 1.20.2~1.21.7.zip"
+filename = "Squareful 方纹v3.8 for MC 1.20.2~1.21.8.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rq4lDGdf/versions/lTnFw8Ip/Squareful%20%E6%96%B9%E7%BA%B9v3.79%20for%20MC%201.20.2~1.21.7.zip"
+url = "https://cdn.modrinth.com/data/rq4lDGdf/versions/SbOQeT4B/Squareful%20%E6%96%B9%E7%BA%B9v3.8%20for%20MC%201.20.2~1.21.8.zip"
 hash-format = "sha512"
-hash = "a4f995e297c94b96d0c6f5ff08e9ced68eededacd5a68da543a5a197776be364f700f3f6010cc7788d19c59067fcc05b21b7ba748f91aab8fcd1134cd5aa3c28"
+hash = "c4ad12d5639adc577786e26a88f238e42143bff7f14ddd12ddce3971e12cc12e83e71cb765bb0b49f800fa4277508a5753e754e77eff0158c1c73b4a10f54043"
 
 [update]
 [update.modrinth]
 mod-id = "rq4lDGdf"
-version = "lTnFw8Ip"
+version = "SbOQeT4B"
