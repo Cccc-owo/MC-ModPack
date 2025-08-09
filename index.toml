@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "891441dc6dc607f8da7fe409ac7add8459275d73b53a72914bb6c096f5c22351"
+hash = "5584fdefb5fcff117b69023258ddfd3135d8ea900e609d48433af8e8a1ca9c69"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
+hash = "b2f2ef63febe17f277635827ca474e1aeae321e8a82bef78942116f95d00250a"
 metafile = true
 
 [[files]]
@@ -250,12 +250,12 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "c6150bce0f72222864fadfd65c6d8d707169c35d2683912432377b14d4038dcd"
+hash = "9fb2174bc6b0ee73b0e11fa97900b9f31b0144ce4e72a8275425238fb4a05d88"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
+hash = "eec54c8310038eaf8625ace2ab01e8ca6b1ce68b0e6a051835cf2faf324478c6"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/nopeeking.pw.toml"
-hash = "4dc8cd00dfc6c095c1cd95c216b1ce36c379eb793bec8fd10233053932b7aba4"
+hash = "1441ead773d1970aad5318bf2b33cb94d75d47e4ada73a424fb6e484f4596be4"
 metafile = true
 
 [[files]]
@@ -420,12 +420,12 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "54b1a62c202dd0406129bb15c76e1c5e4677a033b375de2ccd456e9a31b95d1a"
+hash = "4bf091a6947c83041ae6e9577c9877fbb77908ccf1652d212800132a9eba02ef"
 metafile = true
 
 [[files]]
 file = "mods/paperdoll.pw.toml"
-hash = "54d1e805581469e91b5bfc13968ebd683a8d395b956a3180655f1caf52241553"
+hash = "965d39486bdc074a51cf5e955db09e35f01658fb2a3c25473a5fe94a90f1735e"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "489b02c124486db11ef67bb2f928a4041d9e3c77daf903d1ecbd886f9a037130"
+hash = "7fc97a35d75872fc6b0596490bb1682b140281f2cd018f0e8262aad9f7619022"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "522da8a16ca87bfa21414bfa6f330bda82f081edff21e33d2914c22a3b886b64"
+hash = "fa9aff1fefd412f7acf78a1f87eeea0dd008bb8d18568c77c311ca420e4db6c5"
 metafile = true
 
 [[files]]
@@ -480,12 +480,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0a2b42ff52cba3f205f4ffda2d6b45873768b020da5bc435020abbb5d0170d94"
+hash = "7752d2c8b88516a7d1b2b2deb9cba65f11cea226eb39960b26109e6089ffc659"
 metafile = true
 
 [[files]]
 file = "mods/smoke-suppression.pw.toml"
-hash = "27cbee4e377b1af65f232cd91eaf0ba931d902c7fcff8f4c3e63ac768c4c8b21"
+hash = "193e8c0924e955bb73f5dd89cae28ac9727c100d46e157523a02af4b04a223a7"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "b8f315b318bd9defdb4870d2b74c51057f0c7b79333e31df17a1429ea7c56142"
+hash = "1f5a1133ec6751634138062d5a18507d6678027f07596262d34fb7ecd7ad2a6c"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "444a8c60786402e8b53ab479b797f82c1bb7efc3196b025740c2ba311d40e60d"
+hash = "e174157246a90327bc53d3ae74b3e55d17651cc1ec5822dbab56b69d47ad5d49"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/f8thful.pw.toml"
-hash = "adbe0e8b94d0253c6a8d202393f44153570560060740da35a10f4ca9ce26818a"
+hash = "ab80bdf393472ae4bfaab1c310987de8d7f9f9241417b9637c3af759928c0e80"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "f8d6bf744ba099430d41cfbb260b3384a9d5524837541f9e5a6f5c8415daf8a4"
+hash = "6557f7975cbee5515199b9dd14826d28ed888e45fa4175f7b8504792b8453356"
 metafile = true
 
 [[files]]
@@ -600,12 +600,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "09b7471660825ffecaa6fa5855c025b115fb7a525ee1524ca4f6f868d8d2d758"
+hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xekrsquarepattern.pw.toml"
-hash = "699f733f09d593653185a2a75f34a88e42dbf28a846b6c8da55f8304d9c460d5"
+hash = "8a0ae8fb899d4f017544fa3f18db9f22173b553acc2132623d05660c37fd614a"
 metafile = true
 
 [[files]]
