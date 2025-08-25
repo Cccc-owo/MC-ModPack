@@ -1,13 +1,13 @@
 name = "Peek"
-filename = "peek-fabric-1.21.4-1.4.3.jar"
+filename = "peek-fabric-1.21.4-1.4.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TnOXNf5e/versions/9pyst23f/peek-fabric-1.21.4-1.4.3.jar"
+url = "https://cdn.modrinth.com/data/TnOXNf5e/versions/LUtpUQYP/peek-fabric-1.21.4-1.4.7.jar"
 hash-format = "sha512"
-hash = "27bac4b83c62126fa57fbc109b89e6b28c489869f8fdf684808760c546eb3d2b8411f6a32e7afe4259c2cbfc729f820b619646a6a57043da985e431d590792a5"
+hash = "e2c60bebdb10ac718dc40fd5e08ee5a70b5122a9859848b40a51f830217a07184fc57362fedae8638abe38f199d6f5976067ba04e4dcc987f8044085430d03c4"
 
 [update]
 [update.modrinth]
 mod-id = "TnOXNf5e"
-version = "9pyst23f"
+version = "LUtpUQYP"
